@@ -15,6 +15,7 @@ library(tidyverse)
 # import data
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #set working directory to current directory
 df <- read.csv('data.csv') 
+
 df <- df[-c(1,2),]
 
 df |>

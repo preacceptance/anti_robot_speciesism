@@ -11,7 +11,6 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #set working directo
 d <- read_csv("s5a data.csv")
 d <- d[-c(1,2),]
 
-
 p <- read_csv("s5a data part 2.csv")
 p <- p[-c(1,2),]
 

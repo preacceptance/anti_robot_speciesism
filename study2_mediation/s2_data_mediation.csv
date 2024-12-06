@@ -1,302 +1,302 @@
-"StartDate","EndDate","Status","Progress","Duration..in.seconds.","Finished","RecordedDate","ResponseId","RecipientLastName","RecipientFirstName","RecipientEmail","ExternalReference","DistributionChannel","UserLanguage","cashier_1","conscious_1","soul_1","susp","what","exclude","Block8_DO_cashier","Block8_DO_conscious","Block8_DO_soul","I","P","H"
-"2022-04-20 16:07","2022-04-20 16:08",0,100,50,1,"2022-04-20 16:08","R_2q1VhpHfw0rNe0W",NA,NA,NA,NA,"anonymous","EN",2,1,0,1,"That it was a picture of a person.  Not a robot ",1,2,3,4,NA,1,NA
-"2022-04-20 17:02","2022-04-20 17:03",0,100,68,1,"2022-04-20 17:03","R_238XFNazqolPD9k",NA,NA,NA,NA,"anonymous","EN",3,3,2,1,"I thought that the humanoid robot looked like a real person",1,2,3,4,NA,1,NA
-"2022-04-20 17:06","2022-04-20 17:07",0,100,68,1,"2022-04-20 17:07","R_25yJJlBJ5ueCZi2",NA,NA,NA,NA,"anonymous","EN",8,5,0,1,"That looked like a human.  It was hard to imagine that photo as not being a human.",1,2,3,4,NA,1,NA
-"2022-04-20 17:15","2022-04-20 17:17",0,100,121,1,"2022-04-20 17:17","R_26bhP5nrqU4lw8r",NA,NA,NA,NA,"anonymous","EN",5,0,0,1,"That was a real person. And no fake person will work in a pharmacy. ",1,2,3,4,NA,1,NA
-"2022-04-20 17:27","2022-04-20 17:27",0,100,39,1,"2022-04-20 17:27","R_w1X77McFHLWJdvP",NA,NA,NA,NA,"anonymous","EN",1,1,0,1,"It seems totally fake ",1,2,3,4,1,NA,NA
-"2022-04-20 15:18","2022-04-20 15:19",0,100,64,1,"2022-04-20 15:19","R_UhUkKhp8Ti6q9SV",NA,NA,NA,NA,"anonymous","EN",4,4,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:21","2022-04-20 15:22",0,100,34,1,"2022-04-20 15:22","R_1hJZX7fR7b26C0S",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"asking if people have souls..?",0,2,3,4,NA,NA,1
-"2022-04-20 15:24","2022-04-20 15:24",0,100,21,1,"2022-04-20 15:24","R_6f0WQiFf835WqHf",NA,NA,NA,NA,"anonymous","EN",4,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 15:27","2022-04-20 15:28",0,100,52,1,"2022-04-20 15:28","R_2Ys8KkzwUBJCe0Z",NA,NA,NA,NA,"anonymous","EN",3,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 15:29","2022-04-20 15:29",0,100,22,1,"2022-04-20 15:29","R_1HkmGbKGpMJmDVL",NA,NA,NA,NA,"anonymous","EN",3,8,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:28","2022-04-20 15:30",0,100,141,1,"2022-04-20 15:30","R_R2jKLJS576sbkdz",NA,NA,NA,NA,"anonymous","EN",10,10,5,1,"the final two questions were phrased strangely, ""do you believe this has..."" There was no indication of what ""this"" is though the assumption I made was the image of the pharmacy worker.",0,2,3,4,NA,NA,1
-"2022-04-20 15:32","2022-04-20 15:32",0,100,39,1,"2022-04-20 15:32","R_2SubZbVa6YFlHw0",NA,NA,NA,NA,"anonymous","EN",8,10,10,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:33","2022-04-20 15:34",0,100,27,1,"2022-04-20 15:34","R_27lq7jmaL7K9yFR",NA,NA,NA,NA,"anonymous","EN",4,3,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 15:40","2022-04-20 15:40",0,100,23,1,"2022-04-20 15:40","R_3myy9Oy2lPuAwut",NA,NA,NA,NA,"anonymous","EN",10,8,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 15:40","2022-04-20 15:40",0,100,26,1,"2022-04-20 15:40","R_1DMWIjxNedGZQrI",NA,NA,NA,NA,"anonymous","EN",8,5,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:42","2022-04-20 15:43",0,100,32,1,"2022-04-20 15:43","R_b78AZa8UDEnP23D",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 15:42","2022-04-20 15:43",0,100,51,1,"2022-04-20 15:43","R_2Cmh1NqRiC0eP76",NA,NA,NA,NA,"anonymous","EN",8,9,9,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:46","2022-04-20 15:47",0,100,59,1,"2022-04-20 15:47","R_1Pd7ZanRpwNgFed",NA,NA,NA,NA,"anonymous","EN",5,2,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:48","2022-04-20 15:49",0,100,49,1,"2022-04-20 15:49","R_2do6XpUSEhBjiuU",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:49","2022-04-20 15:50",0,100,42,1,"2022-04-20 15:50","R_3PnwtROyIWuuM71",NA,NA,NA,NA,"anonymous","EN",7,8,8,1,"It made me think the picture was of an AI robot or something since it asked about consciousness and having a soul",0,2,3,4,NA,NA,1
-"2022-04-20 15:49","2022-04-20 15:50",0,100,74,1,"2022-04-20 15:50","R_1FDPP0wSGXMnLzO",NA,NA,NA,NA,"anonymous","EN",6,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:50","2022-04-20 15:51",0,100,27,1,"2022-04-20 15:51","R_Rhnpq4uGY1lipqN",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:50","2022-04-20 15:51",0,100,51,1,"2022-04-20 15:51","R_2YJM6Q8r3UxdRgb",NA,NA,NA,NA,"anonymous","EN",7,2,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:51","2022-04-20 15:52",0,100,55,1,"2022-04-20 15:52","R_xDwYSAKgN8EDgA1",NA,NA,NA,NA,"anonymous","EN",4,1,NA,1,"If it is a humanoid, questions regarding a soul are not applicable",0,2,3,4,1,NA,NA
-"2022-04-20 15:52","2022-04-20 15:53",0,100,45,1,"2022-04-20 15:53","R_12fgEXsuZrDW3Nb",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"the way the questions are phrased ",0,2,3,4,NA,NA,1
-"2022-04-20 15:52","2022-04-20 15:53",0,100,23,1,"2022-04-20 15:53","R_1Cr8nYWzODibY80",NA,NA,NA,NA,"anonymous","EN",4,1,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:53","2022-04-20 15:53",0,100,21,1,"2022-04-20 15:53","R_1GDpYsn64tj8EEE",NA,NA,NA,NA,"anonymous","EN",2,8,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 15:54","2022-04-20 15:54",0,100,27,1,"2022-04-20 15:54","R_1NhqSOFIbmfqfBH",NA,NA,NA,NA,"anonymous","EN",10,5,5,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 15:53","2022-04-20 15:54",0,100,96,1,"2022-04-20 15:54","R_2aaDreczkAJHgbv",NA,NA,NA,NA,"anonymous","EN",4,1,NA,1,"I just felt uneasy about the questions, especially the ""soul"" question. Not sure if it also matters, but I noticed the ""model"" was not white and if that had anything to do with the questions.",0,2,3,4,NA,1,NA
-"2022-04-20 15:53","2022-04-20 15:55",0,100,109,1,"2022-04-20 15:55","R_3MhY4BKYsSSKp8q",NA,NA,NA,NA,"anonymous","EN",3,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:55","2022-04-20 15:55",0,100,27,1,"2022-04-20 15:55","R_8xqpWkaH5dwvBrX",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 15:56","2022-04-20 15:56",0,100,18,1,"2022-04-20 15:56","R_0udLMnxuz20eZqN",NA,NA,NA,NA,"anonymous","EN",5,3,3,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 15:55","2022-04-20 15:57",0,100,118,1,"2022-04-20 15:57","R_1LNc1uXSs8vSBFL",NA,NA,NA,NA,"anonymous","EN",5,4,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 15:57","2022-04-20 15:58",0,100,41,1,"2022-04-20 15:58","R_1hXqs7sLpboZ1QY",NA,NA,NA,NA,"anonymous","EN",9,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 15:57","2022-04-20 15:58",0,100,67,1,"2022-04-20 15:58","R_2rYphOgjniiUwqo",NA,NA,NA,NA,"anonymous","EN",0,10,0,1,"That you're asking.",0,2,3,4,1,NA,NA
-"2022-04-20 15:58","2022-04-20 15:58",0,100,32,1,"2022-04-20 15:58","R_2yl3QA0kQgPmmT1",NA,NA,NA,NA,"anonymous","EN",1,2,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 15:59","2022-04-20 15:59",0,100,37,1,"2022-04-20 15:59","R_3GvpWBVQRUuEWjr",NA,NA,NA,NA,"anonymous","EN",2,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 15:58","2022-04-20 15:59",0,100,42,1,"2022-04-20 15:59","R_1KrvhuHdPO9mInp",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"That the word person was missing. ",0,2,3,4,NA,NA,1
-"2022-04-20 16:01","2022-04-20 16:01",0,100,30,1,"2022-04-20 16:01","R_1KqkKULbgiaM8VU",NA,NA,NA,NA,"anonymous","EN",7,2,NA,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:00","2022-04-20 16:02",0,100,72,1,"2022-04-20 16:02","R_pzaTXWeKX4c4wWl",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:01","2022-04-20 16:02",0,100,34,1,"2022-04-20 16:02","R_2AG6RjAFnuP9YuQ",NA,NA,NA,NA,"anonymous","EN",3,6,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:04","2022-04-20 16:04",0,100,24,1,"2022-04-20 16:04","R_2zHngve3rf4pmyX",NA,NA,NA,NA,"anonymous","EN",7,4,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:05","2022-04-20 16:05",0,100,26,1,"2022-04-20 16:05","R_1FLJQf8SWQMXz9E",NA,NA,NA,NA,"anonymous","EN",9,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:07","2022-04-20 16:07",0,100,19,1,"2022-04-20 16:07","R_3htC2DKdqtUz8Ti",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:06","2022-04-20 16:07",0,100,54,1,"2022-04-20 16:07","R_1JOvxa2vnRC21Wq",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"she might be a robot",0,2,3,4,NA,NA,1
-"2022-04-20 16:07","2022-04-20 16:07",0,100,31,1,"2022-04-20 16:07","R_2AYhfkgvbhCWpjP",NA,NA,NA,NA,"anonymous","EN",0,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:07","2022-04-20 16:08",0,100,35,1,"2022-04-20 16:08","R_1d5FbReZcfuIGUB",NA,NA,NA,NA,"anonymous","EN",2,0,1,1,"The picture",0,2,3,4,NA,1,NA
-"2022-04-20 16:07","2022-04-20 16:08",0,100,63,1,"2022-04-20 16:08","R_2DMqxLOt8jrGghA",NA,NA,NA,NA,"anonymous","EN",9,10,10,1,"I suspect that the ""person"" is a computer-generated image, in which case I wouldn't view it as favorably.",0,2,3,4,NA,NA,1
-"2022-04-20 16:08","2022-04-20 16:08",0,100,32,1,"2022-04-20 16:08","R_ai77s6HQG3ZGUNz",NA,NA,NA,NA,"anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:07","2022-04-20 16:08",0,100,55,1,"2022-04-20 16:08","R_3MfK93UymSgSEtP",NA,NA,NA,NA,"anonymous","EN",2,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:09","2022-04-20 16:10",0,100,28,1,"2022-04-20 16:10","R_u7Fv26f8ZKPyToR",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:09","2022-04-20 16:10",0,100,54,1,"2022-04-20 16:10","R_2ZNZpcAgxpwcZ83",NA,NA,NA,NA,"anonymous","EN",6,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:10","2022-04-20 16:11",0,100,71,1,"2022-04-20 16:11","R_3Hp4BY07CVLVgI1",NA,NA,NA,NA,"anonymous","EN",9,10,10,1,"The questions asked made me wonder if this image was completely computer-generated and not a real person.",0,2,3,4,NA,NA,1
-"2022-04-20 16:11","2022-04-20 16:11",0,100,24,1,"2022-04-20 16:11","R_3CJEwzxcMrqrNyS",NA,NA,NA,NA,"anonymous","EN",8,8,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:11","2022-04-20 16:12",0,100,27,1,"2022-04-20 16:12","R_1kYaD7RmJcdLjUm",NA,NA,NA,NA,"anonymous","EN",7,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:11","2022-04-20 16:12",0,100,26,1,"2022-04-20 16:12","R_1gAaJDc8QApmDX6",NA,NA,NA,NA,"anonymous","EN",2,1,1,1,"The person is a robot",0,2,3,4,NA,1,NA
-"2022-04-20 16:12","2022-04-20 16:13",0,100,51,1,"2022-04-20 16:13","R_qDAxYAPV2RNy68p",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"it was just a girl and I was asked if she had a soul ",0,2,3,4,NA,NA,1
-"2022-04-20 16:13","2022-04-20 16:13",0,100,32,1,"2022-04-20 16:13","R_2CNz6DorgdMzQqC",NA,NA,NA,NA,"anonymous","EN",9,10,5,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:13","2022-04-20 16:13",0,100,36,1,"2022-04-20 16:13","R_3PObjjqaE5oqaas",NA,NA,NA,NA,"anonymous","EN",5,3,3,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:12","2022-04-20 16:14",0,100,91,1,"2022-04-20 16:14","R_3PZAlYAHpQJ9GqJ",NA,NA,NA,NA,"anonymous","EN",3,1,1,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:14","2022-04-20 16:14",0,100,28,1,"2022-04-20 16:14","R_1nOZHDmxOOoqbky",NA,NA,NA,NA,"anonymous","EN",10,5,3,1,"asking if a photo has a soul ",0,2,3,4,NA,NA,1
-"2022-04-20 16:14","2022-04-20 16:15",0,100,26,1,"2022-04-20 16:15","R_1FgECRkqNqaMocp",NA,NA,NA,NA,"anonymous","EN",6,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:14","2022-04-20 16:15",0,100,110,1,"2022-04-20 16:15","R_1pzc30TWjVGH4z3",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"The questions referred to the woman as “it”",0,2,3,4,NA,NA,1
-"2022-04-20 16:15","2022-04-20 16:16",0,100,25,1,"2022-04-20 16:16","R_9HMTtSqmlIVEkcV",NA,NA,NA,NA,"anonymous","EN",4,4,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:14","2022-04-20 16:16",0,100,172,1,"2022-04-20 16:16","R_3dY3FLUILlwUmDy",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:16","2022-04-20 16:16",0,100,28,1,"2022-04-20 16:16","R_2EfNgBAReVuSJm2",NA,NA,NA,NA,"anonymous","EN",9,3,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:18","2022-04-20 16:18",0,100,22,1,"2022-04-20 16:18","R_3EEm2chRRxAX5E4",NA,NA,NA,NA,"anonymous","EN",3,0,0,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:18","2022-04-20 16:18",0,100,19,1,"2022-04-20 16:18","R_0ivQRRB72jvP3Pz",NA,NA,NA,NA,"anonymous","EN",4,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:19","2022-04-20 16:19",0,100,21,1,"2022-04-20 16:19","R_0kdewW5Wptnm2S5",NA,NA,NA,NA,"anonymous","EN",2,2,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:19","2022-04-20 16:19",0,100,19,1,"2022-04-20 16:19","R_UKlsP2mcIxHnuOl",NA,NA,NA,NA,"anonymous","EN",5,6,10,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:19","2022-04-20 16:20",0,100,49,1,"2022-04-20 16:20","R_27ey9U4sO08QDvo",NA,NA,NA,NA,"anonymous","EN",7,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:15","2022-04-20 16:21",0,100,342,1,"2022-04-20 16:21","R_2QugrcdgwbgKfko",NA,NA,NA,NA,"anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:19","2022-04-20 16:21",0,100,106,1,"2022-04-20 16:21","R_3feZ2pcsSUZmDaV",NA,NA,NA,NA,"anonymous","EN",5,8,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:21","2022-04-20 16:21",0,100,24,1,"2022-04-20 16:21","R_D7AMFOvZrMiFxkd",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:21","2022-04-20 16:22",0,100,46,1,"2022-04-20 16:22","R_1FhqA8poEx7qKHK",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:22","2022-04-20 16:23",0,100,61,1,"2022-04-20 16:23","R_1HqatXaDGjWBQUL",NA,NA,NA,NA,"anonymous","EN",8,3,0,1,"the picture looked overwhelmingly real",0,2,3,4,NA,1,NA
-"2022-04-20 16:22","2022-04-20 16:23",0,100,90,1,"2022-04-20 16:23","R_2viA67GXAcdcy7K",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"I thought the questions were weird and referred to the person as this",0,2,3,4,NA,NA,1
-"2022-04-20 16:23","2022-04-20 16:24",0,100,24,1,"2022-04-20 16:24","R_2YD7414Q8xJBOZK",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:23","2022-04-20 16:24",0,100,28,1,"2022-04-20 16:24","R_3ix2d7cNK0yX2ec",NA,NA,NA,NA,"anonymous","EN",4,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:23","2022-04-20 16:24",0,100,53,1,"2022-04-20 16:24","R_1GP0xti7SxM7Yli",NA,NA,NA,NA,"anonymous","EN",7,8,6,1,"Instead of a worker being addressed as a person.  I saw the words this was working here",0,2,3,4,NA,NA,1
-"2022-04-20 16:24","2022-04-20 16:25",0,100,44,1,"2022-04-20 16:25","R_3L7o2Yx1h71HluA",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:24","2022-04-20 16:25",0,100,49,1,"2022-04-20 16:25","R_2yeofu8lDXUwH4D",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"I found it kind of suspicious that it didn't use the word ""human"" or ""girl"" in the questions, it just said ""do you find that this...""",0,2,3,4,NA,NA,1
-"2022-04-20 16:25","2022-04-20 16:25",0,100,45,1,"2022-04-20 16:25","R_3hs8gQG4NoGML7z",NA,NA,NA,NA,"anonymous","EN",6,7,9,1,"that you asked if it was suspicious and you referred to the person as an ""it""",0,2,3,4,NA,NA,1
-"2022-04-20 16:25","2022-04-20 16:26",0,100,32,1,"2022-04-20 16:26","R_10Iu2pow5yRf9VU",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:26","2022-04-20 16:26",0,100,15,1,"2022-04-20 16:26","R_22LgOTG7UK7lbwP",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:25","2022-04-20 16:26",0,100,64,1,"2022-04-20 16:26","R_bwPdg20YUPQt8ml",NA,NA,NA,NA,"anonymous","EN",0,0,0,1,"There was no up front informed consent. And who thinks AI has a soul?",0,2,3,4,1,NA,NA
-"2022-04-20 16:26","2022-04-20 16:27",0,100,52,1,"2022-04-20 16:27","R_Ac9Q25Y0g9tHb45",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:26","2022-04-20 16:27",0,100,73,1,"2022-04-20 16:27","R_27WNWvzgRHEoxPV",NA,NA,NA,NA,"anonymous","EN",0,1,1,1,"The eyes of that robot is very unsettling. I get an uncanny valley feeling.",0,2,3,4,1,NA,NA
-"2022-04-20 16:25","2022-04-20 16:27",0,100,125,1,"2022-04-20 16:27","R_sd0D2nUFjNF1m25",NA,NA,NA,NA,"anonymous","EN",0,5,0,1,"The fact that human looking robots work at a pharmacy...",0,2,3,4,1,NA,NA
-"2022-04-20 16:26","2022-04-20 16:27",0,100,69,1,"2022-04-20 16:27","R_3O5DilRRG8KzEcN",NA,NA,NA,NA,"anonymous","EN",5,3,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:27","2022-04-20 16:27",0,100,20,1,"2022-04-20 16:27","R_7Wo6KXmpeZOCsQF",NA,NA,NA,NA,"anonymous","EN",2,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:27","2022-04-20 16:27",0,100,16,1,"2022-04-20 16:27","R_2zwmPhiASqaOQxl",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:27","2022-04-20 16:28",0,100,39,1,"2022-04-20 16:28","R_2uDs1ANmqA9JFw2",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:26","2022-04-20 16:28",0,100,97,1,"2022-04-20 16:28","R_RysSR7urkibHr69",NA,NA,NA,NA,"anonymous","EN",9,10,10,1,"more like confusing. You referred to the woman as this when asking if she had a consciousness or soul. ",0,2,3,4,NA,NA,1
-"2022-04-20 16:28","2022-04-20 16:28",0,100,30,1,"2022-04-20 16:28","R_1hHgsU11OOoHVeI",NA,NA,NA,NA,"anonymous","EN",2,6,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:28","2022-04-20 16:29",0,100,49,1,"2022-04-20 16:29","R_Za8y2Q6NCuUL6O5",NA,NA,NA,NA,"anonymous","EN",0,2,1,1,"The fact that I was asked if I found anything suspicious.",0,2,3,4,NA,1,NA
-"2022-04-20 16:29","2022-04-20 16:30",0,100,32,1,"2022-04-20 16:30","R_3fPqTpv6QesXamb",NA,NA,NA,NA,"anonymous","EN",0,3,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:31","2022-04-20 16:31",0,100,21,1,"2022-04-20 16:31","R_2xVGfK5afq4rkIy",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:31","2022-04-20 16:32",0,100,23,1,"2022-04-20 16:32","R_PMrFNlKvU0ZTEGt",NA,NA,NA,NA,"anonymous","EN",1,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:32","2022-04-20 16:32",0,100,23,1,"2022-04-20 16:32","R_3siME7hl8xbbarn",NA,NA,NA,NA,"anonymous","EN",6,3,2,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:32","2022-04-20 16:32",0,100,17,1,"2022-04-20 16:32","R_31bGPqEiV2zr459",NA,NA,NA,NA,"anonymous","EN",3,3,2,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:32","2022-04-20 16:32",0,100,51,1,"2022-04-20 16:32","R_3GjF5Mrmf4Bbf89",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:32","2022-04-20 16:33",0,100,52,1,"2022-04-20 16:33","R_1daFjm2UtwCXa1u",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:32","2022-04-20 16:33",0,100,44,1,"2022-04-20 16:33","R_1QA4UlfxEVWNkbb",NA,NA,NA,NA,"anonymous","EN",6,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:34","2022-04-20 16:34",0,100,30,1,"2022-04-20 16:34","R_qVEjLAE9bdn1i4V",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:34","2022-04-20 16:35",0,100,25,1,"2022-04-20 16:35","R_3pg6uW0MxAFsiHh",NA,NA,NA,NA,"anonymous","EN",1,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:35","2022-04-20 16:36",0,100,15,1,"2022-04-20 16:36","R_3HOG0bgbXhFgRI3",NA,NA,NA,NA,"anonymous","EN",2,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:36","2022-04-20 16:36",0,100,28,1,"2022-04-20 16:36","R_yJxwmGGOU2HcmS5",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:35","2022-04-20 16:37",0,100,80,1,"2022-04-20 16:37","R_3Do2H5giAT31G5K",NA,NA,NA,NA,"anonymous","EN",0,1,0,1,"Motivation for asking about non-independent AI Bots. Their programming is controlled by the company.",0,2,3,4,1,NA,NA
-"2022-04-20 16:37","2022-04-20 16:37",0,100,14,1,"2022-04-20 16:37","R_2TufKZv5jR4wM07",NA,NA,NA,NA,"anonymous","EN",9,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:37","2022-04-20 16:37",0,100,27,1,"2022-04-20 16:37","R_0Nvt1vYh2tjNSzD",NA,NA,NA,NA,"anonymous","EN",7,2,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:37","2022-04-20 16:37",0,100,14,1,"2022-04-20 16:37","R_4PkQ7o5ubCrSQ6Z",NA,NA,NA,NA,"anonymous","EN",8,5,2,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:37","2022-04-20 16:37",0,100,24,1,"2022-04-20 16:38","R_3ZTvH7l5uvbErex",NA,NA,NA,NA,"anonymous","EN",7,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:37","2022-04-20 16:37",0,100,24,1,"2022-04-20 16:38","R_2zTLy2xyCIhQNzP",NA,NA,NA,NA,"anonymous","EN",8,6,2,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:37","2022-04-20 16:37",0,100,36,1,"2022-04-20 16:38","R_3fxwlbHij6VPQY4",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"phrasing, intro implied it was a person, then Q1 was like employed THIS",0,2,3,4,NA,NA,1
-"2022-04-20 16:37","2022-04-20 16:38",0,100,48,1,"2022-04-20 16:38","R_51PnV5nswKM4IvL",NA,NA,NA,NA,"anonymous","EN",9,9,10,1,"sometimes it seems like words were missing from the questions",0,2,3,4,NA,NA,1
-"2022-04-20 16:37","2022-04-20 16:38",0,100,30,1,"2022-04-20 16:38","R_2U9skVOUf2u5CPh",NA,NA,NA,NA,"anonymous","EN",10,8,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:38","2022-04-20 16:38",0,100,20,1,"2022-04-20 16:38","R_3PpiaMP9gftj0eo",NA,NA,NA,NA,"anonymous","EN",1,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:38","2022-04-20 16:38",0,100,34,1,"2022-04-20 16:38","R_3Eyf15z68B8Mi5Q",NA,NA,NA,NA,"anonymous","EN",8,5,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:38","2022-04-20 16:39",0,100,16,1,"2022-04-20 16:39","R_1I4y5pM8dTTN0I1",NA,NA,NA,NA,"anonymous","EN",7,6,5,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:37","2022-04-20 16:39",0,100,99,1,"2022-04-20 16:39","R_2TTViPAcvS5fxxj",NA,NA,NA,NA,"anonymous","EN",8,10,9,1,"You referred to the woman as ""this"".",0,2,3,4,NA,NA,1
-"2022-04-20 16:39","2022-04-20 16:39",0,100,21,1,"2022-04-20 16:39","R_1CpQ0hKtIAvny5s",NA,NA,NA,NA,"anonymous","EN",8,2,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:38","2022-04-20 16:40",0,100,64,1,"2022-04-20 16:40","R_1KxO6dBPsUsbqFD",NA,NA,NA,NA,"anonymous","EN",9,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:40","2022-04-20 16:40",0,100,37,1,"2022-04-20 16:40","R_2Brqmx8clT6BELd",NA,NA,NA,NA,"anonymous","EN",6,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:40","2022-04-20 16:41",0,100,28,1,"2022-04-20 16:41","R_1kIkq43vRxsQAXC",NA,NA,NA,NA,"anonymous","EN",7,4,1,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:40","2022-04-20 16:41",0,100,47,1,"2022-04-20 16:41","R_2bPnxLrS8fB9x3n",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:40","2022-04-20 16:41",0,100,17,1,"2022-04-20 16:41","R_2BsUK4vFpRF8oXx",NA,NA,NA,NA,"anonymous","EN",3,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:40","2022-04-20 16:41",0,100,26,1,"2022-04-20 16:41","R_OPCG5vfeufVG4PT",NA,NA,NA,NA,"anonymous","EN",4,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:41","2022-04-20 16:41",0,100,31,1,"2022-04-20 16:41","R_1rHti7KOLSpLZX6",NA,NA,NA,NA,"anonymous","EN",0,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:42","2022-04-20 16:42",0,100,25,1,"2022-04-20 16:42","R_1juF7CiugfBQ8LY",NA,NA,NA,NA,"anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:42","2022-04-20 16:43",0,100,23,1,"2022-04-20 16:43","R_3rdhym7yQP6V9cZ",NA,NA,NA,NA,"anonymous","EN",8,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:42","2022-04-20 16:43",0,100,40,1,"2022-04-20 16:43","R_3Gwi8kZJHYRVSn5",NA,NA,NA,NA,"anonymous","EN",1,5,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:43","2022-04-20 16:44",0,100,71,1,"2022-04-20 16:44","R_3RdVTaykga8Elxr",NA,NA,NA,NA,"anonymous","EN",9,10,10,1,"I found asking if someone has a soul based on solely an image suspicious.",0,2,3,4,NA,NA,1
-"2022-04-20 16:44","2022-04-20 16:44",0,100,26,1,"2022-04-20 16:44","R_dmVdPpVWc9RtGiR",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:44","2022-04-20 16:45",0,100,24,1,"2022-04-20 16:45","R_1pVXbY9NzMHZtlK",NA,NA,NA,NA,"anonymous","EN",8,0,NA,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:45","2022-04-20 16:45",0,100,29,1,"2022-04-20 16:45","R_11dUlc9S9nW1jye",NA,NA,NA,NA,"anonymous","EN",9,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:45","2022-04-20 16:45",0,100,41,1,"2022-04-20 16:45","R_1PbI5jPm17vdMMJ",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"There was no mention of who/what the person was, ie: no ""human""",0,2,3,4,NA,NA,1
-"2022-04-20 16:45","2022-04-20 16:45",0,100,47,1,"2022-04-20 16:45","R_27s1QZXh51DEYlQ",NA,NA,NA,NA,"anonymous","EN",0,5,4,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:45","2022-04-20 16:46",0,100,26,1,"2022-04-20 16:46","R_3PN1eQ1p0WNYJqT",NA,NA,NA,NA,"anonymous","EN",8,2,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:46","2022-04-20 16:46",0,100,15,1,"2022-04-20 16:46","R_3qJcXyFpCQQNnfm",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:46","2022-04-20 16:47",0,100,56,1,"2022-04-20 16:47","R_DrcujoErDzQ81Yl",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:46","2022-04-20 16:47",0,100,52,1,"2022-04-20 16:47","R_2uUGanRb56FUCXL",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:46","2022-04-20 16:47",0,100,26,1,"2022-04-20 16:47","R_33Dtdag1mN6a9QZ",NA,NA,NA,NA,"anonymous","EN",3,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:46","2022-04-20 16:47",0,100,40,1,"2022-04-20 16:47","R_3gL2wzqr96vQBEY",NA,NA,NA,NA,"anonymous","EN",4,6,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:46","2022-04-20 16:47",0,100,35,1,"2022-04-20 16:47","R_2uPVfWGU5xbEk6h",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:46","2022-04-20 16:47",0,100,36,1,"2022-04-20 16:47","R_1H1aJys5kMFwlCv",NA,NA,NA,NA,"anonymous","EN",0,3,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:47","2022-04-20 16:48",0,100,26,1,"2022-04-20 16:48","R_3rIozeWV7xULgAr",NA,NA,NA,NA,"anonymous","EN",9,8,6,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:45","2022-04-20 16:48",0,100,184,1,"2022-04-20 16:48","R_3Hv56iViDwMdH6u",NA,NA,NA,NA,"anonymous","EN",7,4,6,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:48","2022-04-20 16:48",0,100,16,1,"2022-04-20 16:48","R_3PMhJQ3Kg7tTWP3",NA,NA,NA,NA,"anonymous","EN",4,1,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:48","2022-04-20 16:49",0,100,37,1,"2022-04-20 16:49","R_1DqLsPhXPlwyL6N",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:49","2022-04-20 16:49",0,100,44,1,"2022-04-20 16:49","R_1DCJ7DMWzi9ByR6",NA,NA,NA,NA,"anonymous","EN",7,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:49","2022-04-20 16:50",0,100,36,1,"2022-04-20 16:50","R_2snr73sXmBquOnn",NA,NA,NA,NA,"anonymous","EN",7,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:49","2022-04-20 16:50",0,100,20,1,"2022-04-20 16:50","R_3EhE77ABhsSJ974",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:50","2022-04-20 16:50",0,100,37,1,"2022-04-20 16:50","R_AO49mbNMlF3oGdz",NA,NA,NA,NA,"anonymous","EN",10,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:50","2022-04-20 16:51",0,100,36,1,"2022-04-20 16:51","R_1BXhrAU8xBMltP2",NA,NA,NA,NA,"anonymous","EN",10,10,0,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:50","2022-04-20 16:51",0,100,24,1,"2022-04-20 16:51","R_2aQeO95XFuTjEoJ",NA,NA,NA,NA,"anonymous","EN",3,3,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:51","2022-04-20 16:52",0,100,18,1,"2022-04-20 16:52","R_30jUbTDadHHpnTV",NA,NA,NA,NA,"anonymous","EN",8,10,5,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:51","2022-04-20 16:52",0,100,24,1,"2022-04-20 16:52","R_1obrPgQrZTfmaNS",NA,NA,NA,NA,"anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:51","2022-04-20 16:52",0,100,31,1,"2022-04-20 16:52","R_1P1Ky5jpfrvRzGy",NA,NA,NA,NA,"anonymous","EN",2,1,1,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:52","2022-04-20 16:53",0,100,23,1,"2022-04-20 16:53","R_3PC9I3Am5MLxvrK",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:53","2022-04-20 16:53",0,100,17,1,"2022-04-20 16:53","R_3oLzLntiMMmBgTv",NA,NA,NA,NA,"anonymous","EN",1,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:53","2022-04-20 16:53",0,100,29,1,"2022-04-20 16:53","R_2E5ovAGlxfCWRQd",NA,NA,NA,NA,"anonymous","EN",4,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:52","2022-04-20 16:54",0,100,72,1,"2022-04-20 16:54","R_WqAceNzPtCBTdnz",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 16:54","2022-04-20 16:54",0,100,25,1,"2022-04-20 16:54","R_3MzLxM4ygmhOX2Z",NA,NA,NA,NA,"anonymous","EN",4,1,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:53","2022-04-20 16:54",0,100,42,1,"2022-04-20 16:54","R_1Du00N3cjecMDlN",NA,NA,NA,NA,"anonymous","EN",0,0,0,1,"You're trying to gauge our reactions for this creepy robot substitution that's coming soon.",0,2,3,4,1,NA,NA
-"2022-04-20 16:53","2022-04-20 16:54",0,100,34,1,"2022-04-20 16:54","R_3prIf8fM50K3aRk",NA,NA,NA,NA,"anonymous","EN",2,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:53","2022-04-20 16:54",0,100,57,1,"2022-04-20 16:54","R_2sX90YQKpXMhqSS",NA,NA,NA,NA,"anonymous","EN",5,8,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:39","2022-04-20 16:55",0,100,933,1,"2022-04-20 16:55","R_3HMKlexHyNSiXwB",NA,NA,NA,NA,"anonymous","EN",9,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:54","2022-04-20 16:55",0,100,48,1,"2022-04-20 16:55","R_29tsKyz8LLJ3RfS",NA,NA,NA,NA,"anonymous","EN",7,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:54","2022-04-20 16:55",0,100,25,1,"2022-04-20 16:55","R_1r2EDPgNBRKNieM",NA,NA,NA,NA,"anonymous","EN",5,3,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:54","2022-04-20 16:55",0,100,36,1,"2022-04-20 16:55","R_1DSyfI7DyaK3Bzx",NA,NA,NA,NA,"anonymous","EN",6,7,6,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:54","2022-04-20 16:56",0,100,75,1,"2022-04-20 16:56","R_2as16edEwJa9pnP",NA,NA,NA,NA,"anonymous","EN",8,2,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:56","2022-04-20 16:56",0,100,15,1,"2022-04-20 16:56","R_2foB0HRPx9MkrXy",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:55","2022-04-20 16:57",0,100,83,1,"2022-04-20 16:57","R_3Kr7Uh2MsLiTifI",NA,NA,NA,NA,"anonymous","EN",9,6,7,1,"Vagueness of ""this"" in the consciousness and soul questions.",0,2,3,4,NA,NA,1
-"2022-04-20 16:56","2022-04-20 16:57",0,100,32,1,"2022-04-20 16:57","R_DwqfI3ziWyP4JuV",NA,NA,NA,NA,"anonymous","EN",2,2,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:55","2022-04-20 16:57",0,100,84,1,"2022-04-20 16:57","R_6MC5utz71hJdmSd",NA,NA,NA,NA,"anonymous","EN",1,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:57","2022-04-20 16:58",0,100,28,1,"2022-04-20 16:58","R_1CmxqlkSDH5zMPT",NA,NA,NA,NA,"anonymous","EN",7,2,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 16:58","2022-04-20 16:58",0,100,30,1,"2022-04-20 16:58","R_2QMVesE6LOyCIne",NA,NA,NA,NA,"anonymous","EN",3,8,2,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 16:59","2022-04-20 17:00",0,100,90,1,"2022-04-20 17:00","R_9Tta4fJN0PUaqQN",NA,NA,NA,NA,"anonymous","EN",10,10,0,1,"It seemed as if the questions were about a non-human entity. ",0,2,3,4,NA,NA,1
-"2022-04-20 16:59","2022-04-20 17:00",0,100,51,1,"2022-04-20 17:00","R_1OvssuSLLOphToJ",NA,NA,NA,NA,"anonymous","EN",5,1,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:00","2022-04-20 17:01",0,100,27,1,"2022-04-20 17:01","R_2BzYpH2NsopPpHL",NA,NA,NA,NA,"anonymous","EN",7,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:01","2022-04-20 17:01",0,100,33,1,"2022-04-20 17:01","R_QoFXADtHv0nJ0xX",NA,NA,NA,NA,"anonymous","EN",2,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:00","2022-04-20 17:01",0,100,51,1,"2022-04-20 17:01","R_1hMdFheQPsivcql",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:00","2022-04-20 17:01",0,100,71,1,"2022-04-20 17:01","R_SOcJuQwcuTUQkvL",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"Why was the lady referred to as ""this?""",0,2,3,4,NA,NA,1
-"2022-04-20 17:01","2022-04-20 17:01",0,100,33,1,"2022-04-20 17:01","R_2uBYcPIUatsrN62",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:01","2022-04-20 17:02",0,100,35,1,"2022-04-20 17:02","R_zePasUeXLvyux5T",NA,NA,NA,NA,"anonymous","EN",10,10,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:02","2022-04-20 17:02",0,100,30,1,"2022-04-20 17:02","R_29gDUfzZZKkbRfM",NA,NA,NA,NA,"anonymous","EN",5,2,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:02","2022-04-20 17:03",0,100,23,1,"2022-04-20 17:03","R_2BrBY6zvicfIgJm",NA,NA,NA,NA,"anonymous","EN",3,5,3,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:02","2022-04-20 17:04",0,100,75,1,"2022-04-20 17:04","R_3lDBnSrFKt0gEs4",NA,NA,NA,NA,"anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:03","2022-04-20 17:04",0,100,36,1,"2022-04-20 17:04","R_31ZT9CmZYzkHr55",NA,NA,NA,NA,"anonymous","EN",0,3,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:04","2022-04-20 17:05",0,100,60,1,"2022-04-20 17:05","R_9BlwWulvhdKGo1P",NA,NA,NA,NA,"anonymous","EN",5,6,0,1,"Use of Asian characteristics on robot",0,2,3,4,NA,1,NA
-"2022-04-20 17:04","2022-04-20 17:05",0,100,34,1,"2022-04-20 17:05","R_1Kx21AYc8OzqTi4",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"Referring to the person as ""this""",0,2,3,4,NA,NA,1
-"2022-04-20 17:04","2022-04-20 17:05",0,100,28,1,"2022-04-20 17:05","R_1OCUYpRyrrNZrJU",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:05","2022-04-20 17:05",0,100,16,1,"2022-04-20 17:05","R_2VjxZ5NKTHeFckz",NA,NA,NA,NA,"anonymous","EN",6,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:05","2022-04-20 17:05",0,100,28,1,"2022-04-20 17:05","R_b2cFbfw7uRMnrPj",NA,NA,NA,NA,"anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:05","2022-04-20 17:05",0,100,21,1,"2022-04-20 17:05","R_3rOhq9r0ukpv8F9",NA,NA,NA,NA,"anonymous","EN",9,2,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:05","2022-04-20 17:05",0,100,37,1,"2022-04-20 17:05","R_1gun4cWn1YEwzT0",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:06","2022-04-20 17:06",0,100,23,1,"2022-04-20 17:06","R_p4R8JHzMvqduvvz",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:06","2022-04-20 17:06",0,100,44,1,"2022-04-20 17:06","R_OpeeTG8JpoaDz7r",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"There was a missing word in each of the sentences, i.e. ""do you think this ___ has a soul/etc.""",0,2,3,4,NA,NA,1
-"2022-04-20 17:06","2022-04-20 17:06",0,100,37,1,"2022-04-20 17:06","R_bf44BSeskHd0aVr",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:06","2022-04-20 17:07",0,100,64,1,"2022-04-20 17:07","R_22y38VXBViiXC0d",NA,NA,NA,NA,"anonymous","EN",10,10,8,1,"the use of ""this"" after initially identifying a ""woman""",0,2,3,4,NA,NA,1
-"2022-04-20 17:06","2022-04-20 17:07",0,100,47,1,"2022-04-20 17:07","R_3MlDMl8dri5EgEH",NA,NA,NA,NA,"anonymous","EN",9,0,0,1,"that they used a picture of a real person",0,2,3,4,NA,1,NA
-"2022-04-20 17:07","2022-04-20 17:07",0,100,25,1,"2022-04-20 17:07","R_3eyMh7TWEdrqA2W",NA,NA,NA,NA,"anonymous","EN",9,9,9,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:07","2022-04-20 17:08",0,100,17,1,"2022-04-20 17:08","R_RggeI639rimMRnX",NA,NA,NA,NA,"anonymous","EN",7,7,8,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:07","2022-04-20 17:08",0,100,20,1,"2022-04-20 17:08","R_1OW9utClrNLWTba",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:08","2022-04-20 17:08",0,100,21,1,"2022-04-20 17:08","R_1Qu6TvtZdKwm50y",NA,NA,NA,NA,"anonymous","EN",1,3,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:08","2022-04-20 17:08",0,100,31,1,"2022-04-20 17:08","R_eaLgdThd7WSCIj7",NA,NA,NA,NA,"anonymous","EN",10,9,0,1,"you left out the word woman",0,2,3,4,NA,NA,1
-"2022-04-20 17:08","2022-04-20 17:08",0,100,31,1,"2022-04-20 17:08","R_wTOWiBz47LxGAq5",NA,NA,NA,NA,"anonymous","EN",7,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:07","2022-04-20 17:08",0,100,58,1,"2022-04-20 17:08","R_C2Hv5G9cEYhH3SF",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:08","2022-04-20 17:09",0,100,18,1,"2022-04-20 17:09","R_2CNSst6yAEwHazP",NA,NA,NA,NA,"anonymous","EN",1,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:08","2022-04-20 17:09",0,100,37,1,"2022-04-20 17:09","R_RqwM5rYYXhxezbb",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:08","2022-04-20 17:09",0,100,61,1,"2022-04-20 17:09","R_3PBnX9zxnaajfNp",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:09","2022-04-20 17:09",0,100,30,1,"2022-04-20 17:09","R_1l5Wx2pAr61wFGh",NA,NA,NA,NA,"anonymous","EN",10,8,0,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:08","2022-04-20 17:09",0,100,73,1,"2022-04-20 17:09","R_qPyKoLJmyao5Q0p",NA,NA,NA,NA,"anonymous","EN",10,10,6,1,"The questions are up to interpretation ",0,2,3,4,NA,NA,1
-"2022-04-20 17:08","2022-04-20 17:10",0,100,60,1,"2022-04-20 17:10","R_2QXazHFf7jMX8FB",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"That their was an implication that this was not a real women but instead an AI.",0,2,3,4,NA,NA,1
-"2022-04-20 17:08","2022-04-20 17:10",0,100,102,1,"2022-04-20 17:10","R_WjIzwJyOAig9Tln",NA,NA,NA,NA,"anonymous","EN",5,2,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:09","2022-04-20 17:10",0,100,27,1,"2022-04-20 17:10","R_1owkbPK66BvXhTO",NA,NA,NA,NA,"anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:09","2022-04-20 17:10",0,100,37,1,"2022-04-20 17:10","R_R9oFebxfRZJp8pH",NA,NA,NA,NA,"anonymous","EN",8,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:10","2022-04-20 17:10",0,100,20,1,"2022-04-20 17:10","R_pS2GudTXxyBz4YN",NA,NA,NA,NA,"anonymous","EN",9,1,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:09","2022-04-20 17:10",0,100,41,1,"2022-04-20 17:10","R_262UEubLoVYd45k",NA,NA,NA,NA,"anonymous","EN",10,3,3,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:09","2022-04-20 17:10",0,100,71,1,"2022-04-20 17:10","R_2Cyv9RefawoRJmp",NA,NA,NA,NA,"anonymous","EN",9,6,7,1,"It seemed like there were words missing in the questions.",0,2,3,4,NA,NA,1
-"2022-04-20 17:10","2022-04-20 17:10",0,100,42,1,"2022-04-20 17:10","R_d9UkhNaHajZlL8d",NA,NA,NA,NA,"anonymous","EN",10,8,8,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:10","2022-04-20 17:11",0,100,36,1,"2022-04-20 17:11","R_21dBs1BPruj62lW",NA,NA,NA,NA,"anonymous","EN",9,10,10,1,"I'm wondering if she is a real person or an AI on a screen",0,2,3,4,NA,NA,1
-"2022-04-20 17:08","2022-04-20 17:11",0,100,161,1,"2022-04-20 17:11","R_3CU88Q4Nz1g39Zg",NA,NA,NA,NA,"anonymous","EN",4,1,1,1,"Asking if robots have souls will always seem suspicious.",0,2,3,4,1,NA,NA
-"2022-04-20 17:09","2022-04-20 17:11",0,100,135,1,"2022-04-20 17:11","R_3NyR7TPKel9xKIN",NA,NA,NA,NA,"anonymous","EN",3,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:11","2022-04-20 17:11",0,100,38,1,"2022-04-20 17:11","R_3prnMT6B5yrsdjt",NA,NA,NA,NA,"anonymous","EN",9,10,10,1,"The question was kind of weird",0,2,3,4,NA,NA,1
-"2022-04-20 17:04","2022-04-20 17:11",0,100,460,1,"2022-04-20 17:11","R_xflRCnkwAREpgtz",NA,NA,NA,NA,"anonymous","EN",7,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:11","2022-04-20 17:12",0,100,47,1,"2022-04-20 17:12","R_1eQdTUoQxyWqsBL",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"By asking if I think a woman has a soul",0,2,3,4,NA,NA,1
-"2022-04-20 17:11","2022-04-20 17:12",0,100,82,1,"2022-04-20 17:12","R_bmk4fpZp9FBV9G9",NA,NA,NA,NA,"anonymous","EN",9,10,10,1,"Why the woman was reffered to as ""this"" I think you were looking for racial bias. ",0,2,3,4,NA,NA,1
-"2022-04-20 17:12","2022-04-20 17:13",0,100,26,1,"2022-04-20 17:13","R_12qW3nzUmRxjRyd",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:13","2022-04-20 17:13",0,100,25,1,"2022-04-20 17:13","R_2zTPVGSJTiP00GG",NA,NA,NA,NA,"anonymous","EN",2,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:12","2022-04-20 17:13",0,100,96,1,"2022-04-20 17:13","R_1dugRRLjCugpALs",NA,NA,NA,NA,"anonymous","EN",7,7,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:13","2022-04-20 17:13",0,100,30,1,"2022-04-20 17:13","R_3njb1elQTKlGMgf",NA,NA,NA,NA,"anonymous","EN",4,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:13","2022-04-20 17:13",0,100,21,1,"2022-04-20 17:13","R_2V9hwqE8abwbfWH",NA,NA,NA,NA,"anonymous","EN",6,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:07","2022-04-20 17:14",0,100,393,1,"2022-04-20 17:14","R_3PaYNruOYzwJdsE",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:13","2022-04-20 17:14",0,100,29,1,"2022-04-20 17:14","R_2s58zgE1k6PFxKJ",NA,NA,NA,NA,"anonymous","EN",5,5,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:13","2022-04-20 17:14",0,100,38,1,"2022-04-20 17:14","R_296yhcXpEFCeTlP",NA,NA,NA,NA,"anonymous","EN",1,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:14","2022-04-20 17:15",0,100,18,1,"2022-04-20 17:15","R_2qwnN6D4qdUfJ6a",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:14","2022-04-20 17:15",0,100,22,1,"2022-04-20 17:15","R_3gd0jrJs0pNuoWl",NA,NA,NA,NA,"anonymous","EN",1,2,2,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:14","2022-04-20 17:15",0,100,21,1,"2022-04-20 17:15","R_10Nw8xbmQ94zqat",NA,NA,NA,NA,"anonymous","EN",6,3,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:14","2022-04-20 17:15",0,100,28,1,"2022-04-20 17:15","R_2b1Yb9C2bjlttNW",NA,NA,NA,NA,"anonymous","EN",10,10,0,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:15","2022-04-20 17:15",0,100,41,1,"2022-04-20 17:15","R_2s7okYOC0TafwRp",NA,NA,NA,NA,"anonymous","EN",9,1,1,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:15","2022-04-20 17:16",0,100,22,1,"2022-04-20 17:16","R_82MIphE3y582vhn",NA,NA,NA,NA,"anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:15","2022-04-20 17:16",0,100,44,1,"2022-04-20 17:16","R_3MSDbYdWKn8BWFQ",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:16","2022-04-20 17:16",0,100,23,1,"2022-04-20 17:16","R_2fuO5F3rIMeuZap",NA,NA,NA,NA,"anonymous","EN",7,5,3,1,"unsure",0,2,3,4,NA,1,NA
-"2022-04-20 17:15","2022-04-20 17:16",0,100,63,1,"2022-04-20 17:16","R_3hzPrQ57HS6HA4H",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"Maybe the person was supposed to be a robot",0,2,3,4,NA,NA,1
-"2022-04-20 17:16","2022-04-20 17:16",0,100,20,1,"2022-04-20 17:16","R_1rHBTvR5h6M5lcf",NA,NA,NA,NA,"anonymous","EN",2,1,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:16","2022-04-20 17:17",0,100,89,1,"2022-04-20 17:17","R_3M4ej31pNvgiDGQ",NA,NA,NA,NA,"anonymous","EN",0,2,NA,1,"The questions were very biased",0,2,3,4,NA,1,NA
-"2022-04-20 17:18","2022-04-20 17:18",0,100,22,1,"2022-04-20 17:18","R_1DZormV9wrCEvoz",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:18","2022-04-20 17:18",0,100,24,1,"2022-04-20 17:18","R_1DqDyR51KGPbcvY",NA,NA,NA,NA,"anonymous","EN",6,1,1,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:16","2022-04-20 17:19",0,100,191,1,"2022-04-20 17:19","R_2tKEyukwTK0cvRw",NA,NA,NA,NA,"anonymous","EN",0,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:19","2022-04-20 17:20",0,100,71,1,"2022-04-20 17:20","R_2CTab7Gjtx41Xk2",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"The last two questions.",0,2,3,4,NA,NA,1
-"2022-04-20 17:19","2022-04-20 17:20",0,100,32,1,"2022-04-20 17:20","R_2Bal7d3iKB6CXB7",NA,NA,NA,NA,"anonymous","EN",6,6,8,1,"The wording of the questions was suspicious. ",0,2,3,4,NA,NA,1
-"2022-04-20 17:20","2022-04-20 17:20",0,100,32,1,"2022-04-20 17:20","R_21dmPjmIGI87vmz",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"this is just asking if I'm racist lol ",0,2,3,4,NA,NA,1
-"2022-04-20 17:20","2022-04-20 17:21",0,100,54,1,"2022-04-20 17:21","R_qILdUTD22uC9gXv",NA,NA,NA,NA,"anonymous","EN",3,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:20","2022-04-20 17:21",0,100,35,1,"2022-04-20 17:21","R_2ScvVMdn9BpM4QG",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:20","2022-04-20 17:21",0,100,24,1,"2022-04-20 17:21","R_2S0NtCJveQ2EPSB",NA,NA,NA,NA,"anonymous","EN",5,4,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:21","2022-04-20 17:22",0,100,68,1,"2022-04-20 17:22","R_2OUNqxI7kIaChVB",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"Question 2 and 3 made no sense.",0,2,3,4,NA,NA,1
-"2022-04-20 17:22","2022-04-20 17:22",0,100,21,1,"2022-04-20 17:22","R_0evieAU5DJrvJD3",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:22","2022-04-20 17:22",0,100,33,1,"2022-04-20 17:22","R_1FfXxNUxG2pK9iK",NA,NA,NA,NA,"anonymous","EN",6,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:22","2022-04-20 17:22",0,100,41,1,"2022-04-20 17:22","R_2wLA3qZiqpCDoYm",NA,NA,NA,NA,"anonymous","EN",6,5,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:22","2022-04-20 17:22",0,100,30,1,"2022-04-20 17:22","R_2Y9XvqD1KFYWlke",NA,NA,NA,NA,"anonymous","EN",1,7,7,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:22","2022-04-20 17:23",0,100,46,1,"2022-04-20 17:23","R_3nH3U0ZwDlfxcsP",NA,NA,NA,NA,"anonymous","EN",8,10,10,1,"The verbiage of the last two questions was phrased wrong",0,2,3,4,NA,NA,1
-"2022-04-20 17:22","2022-04-20 17:23",0,100,41,1,"2022-04-20 17:23","R_12froaWjyosP4x5",NA,NA,NA,NA,"anonymous","EN",7,4,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:22","2022-04-20 17:23",0,100,79,1,"2022-04-20 17:23","R_3NCZjsMY9LL9dFy",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"The questions were phrased as if they were about an object, a robot almost. But the apparent subject of the questions appeared to be a woman.",0,2,3,4,NA,NA,1
-"2022-04-20 17:23","2022-04-20 17:23",0,100,33,1,"2022-04-20 17:23","R_zYdSirZP4Qv1Rw5",NA,NA,NA,NA,"anonymous","EN",7,5,1,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:23","2022-04-20 17:24",0,100,43,1,"2022-04-20 17:24","R_3kdr03TeRwyDbkM",NA,NA,NA,NA,"anonymous","EN",9,10,10,1,"Asks about a woman but then in the questions she is just referred to as ""this""",0,2,3,4,NA,NA,1
-"2022-04-20 17:23","2022-04-20 17:25",0,100,72,1,"2022-04-20 17:25","R_2cvd4aMLjzbi2AN",NA,NA,NA,NA,"anonymous","EN",10,10,10,1,"The questions asked about what appeared to be an actual person but may have been A.I. or computer generated.",0,2,3,4,NA,NA,1
-"2022-04-20 17:23","2022-04-20 17:26",0,100,194,1,"2022-04-20 17:26","R_3Iag1iZzXKd16Wq",NA,NA,NA,NA,"anonymous","EN",8,5,6,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:25","2022-04-20 17:26",0,100,49,1,"2022-04-20 17:26","R_1dLYbTLvAEKRf71",NA,NA,NA,NA,"anonymous","EN",10,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:26","2022-04-20 17:26",0,100,19,1,"2022-04-20 17:26","R_3KI3mPgd2mMfnna",NA,NA,NA,NA,"anonymous","EN",6,4,NA,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:27","2022-04-20 17:28",0,100,27,1,"2022-04-20 17:28","R_2wH65UufDoyxDcS",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:28","2022-04-20 17:29",0,100,24,1,"2022-04-20 17:29","R_ex0bz0akQIh0l2x",NA,NA,NA,NA,"anonymous","EN",8,6,2,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:28","2022-04-20 17:29",0,100,27,1,"2022-04-20 17:29","R_2SBOoNKucZdf4Yl",NA,NA,NA,NA,"anonymous","EN",10,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:26","2022-04-20 17:29",0,100,188,1,"2022-04-20 17:29","R_25F2k4DGMynvtrm",NA,NA,NA,NA,"anonymous","EN",10,8,9,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:29","2022-04-20 17:30",0,100,49,1,"2022-04-20 17:30","R_1rxgTuhxEzUdURA",NA,NA,NA,NA,"anonymous","EN",0,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:30","2022-04-20 17:30",0,100,18,1,"2022-04-20 17:30","R_1ovUQzqp3QPHDCl",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:30","2022-04-20 17:31",0,100,35,1,"2022-04-20 17:31","R_3NxEEbP0BhosGSa",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:31","2022-04-20 17:31",0,100,20,1,"2022-04-20 17:31","R_6WGXG2C8HXchov7",NA,NA,NA,NA,"anonymous","EN",9,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:29","2022-04-20 17:31",0,100,149,1,"2022-04-20 17:31","R_31v1O7GdDYHVzVV",NA,NA,NA,NA,"anonymous","EN",3,6,2,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:32","2022-04-20 17:32",0,100,24,1,"2022-04-20 17:32","R_1gH0wT8PF5nrxtP",NA,NA,NA,NA,"anonymous","EN",5,2,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:32","2022-04-20 17:32",0,100,25,1,"2022-04-20 17:32","R_3O1X1jMR8XIlnSE",NA,NA,NA,NA,"anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
-"2022-04-20 17:32","2022-04-20 17:33",0,100,53,1,"2022-04-20 17:33","R_2vf4PCXFnfJmS4B",NA,NA,NA,NA,"anonymous","EN",6,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:32","2022-04-20 17:33",0,100,47,1,"2022-04-20 17:33","R_1dbkYTTaxx5XYLV",NA,NA,NA,NA,"anonymous","EN",9,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:33","2022-04-20 17:33",0,100,30,1,"2022-04-20 17:33","R_RLxpJOWBJhumoyl",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:33","2022-04-20 17:34",0,100,32,1,"2022-04-20 17:34","R_1dcw84cwaEL2Tsm",NA,NA,NA,NA,"anonymous","EN",3,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:33","2022-04-20 17:35",0,100,92,1,"2022-04-20 17:35","R_1i5nHnfWJBR50F1",NA,NA,NA,NA,"anonymous","EN",9,5,5,1,"We are supposed to imagine her as real? Or just a picture on a screen?",0,2,3,4,NA,NA,1
-"2022-04-20 17:34","2022-04-20 17:35",0,100,52,1,"2022-04-20 17:35","R_YSyDZjKYm5Jy3jX",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:35","2022-04-20 17:36",0,100,39,1,"2022-04-20 17:36","R_296OzSU2x8eG2Vq",NA,NA,NA,NA,"anonymous","EN",10,10,7,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:36","2022-04-20 17:36",0,100,37,1,"2022-04-20 17:36","R_2ElXmBSM8ugEn8x",NA,NA,NA,NA,"anonymous","EN",10,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:36","2022-04-20 17:37",0,100,56,1,"2022-04-20 17:37","R_T1pBrsuuaIWgfh7",NA,NA,NA,NA,"anonymous","EN",9,3,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:36","2022-04-20 17:37",0,100,30,1,"2022-04-20 17:37","R_b8vLdUj4JyqGTOV",NA,NA,NA,NA,"anonymous","EN",8,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:36","2022-04-20 17:37",0,100,23,1,"2022-04-20 17:37","R_3iQNbiC2dkNqCWj",NA,NA,NA,NA,"anonymous","EN",10,5,1,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:37","2022-04-20 17:37",0,100,14,1,"2022-04-20 17:37","R_1H6RBFlAe6yz6vY",NA,NA,NA,NA,"anonymous","EN",4,1,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:37","2022-04-20 17:37",0,100,30,1,"2022-04-20 17:37","R_2uQYiUCwD0dor7b",NA,NA,NA,NA,"anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:37","2022-04-20 17:37",0,100,46,1,"2022-04-20 17:37","R_22tDeuQhC9R3H8c",NA,NA,NA,NA,"anonymous","EN",8,1,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:37","2022-04-20 17:38",0,100,67,1,"2022-04-20 17:38","R_ptpoXMBl1ngEF57",NA,NA,NA,NA,"anonymous","EN",9,10,10,1,"Referring to the woman as this",0,2,3,4,NA,NA,1
-"2022-04-20 17:37","2022-04-20 17:38",0,100,37,1,"2022-04-20 17:38","R_2ZTGIFVFqK5nbQQ",NA,NA,NA,NA,"anonymous","EN",5,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:38","2022-04-20 17:39",0,100,30,1,"2022-04-20 17:39","R_1MSPOchhcN6rafL",NA,NA,NA,NA,"anonymous","EN",9,0,0,2,"",0,2,3,4,NA,1,NA
-"2022-04-20 17:38","2022-04-20 17:39",0,100,37,1,"2022-04-20 17:39","R_20UTRRt2tndGbYI",NA,NA,NA,NA,"anonymous","EN",1,0,0,2,"",0,2,3,4,1,NA,NA
-"2022-04-20 17:38","2022-04-20 17:39",0,100,71,1,"2022-04-20 17:39","R_1ITohmlTPesvB2t",NA,NA,NA,NA,"anonymous","EN",7,8,8,1,"You wouldn't normally ask if a person has consciousness or a soul.",0,2,3,4,NA,NA,1
+"StartDate","EndDate","Status","IPAddress","Progress","Duration..in.seconds.","Finished","RecordedDate","ResponseId","RecipientLastName","RecipientFirstName","RecipientEmail","ExternalReference","LocationLatitude","LocationLongitude","DistributionChannel","UserLanguage","cashier_1","conscious_1","soul_1","susp","what","exclude","Block8_DO_cashier","Block8_DO_conscious","Block8_DO_soul","I","P","H"
+"2022-04-20 16:07","2022-04-20 16:08",0,"Anonymized",100,50,1,"2022-04-20 16:08","R_2q1VhpHfw0rNe0W",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,0,1,"That it was a picture of a person.  Not a robot ",1,2,3,4,NA,1,NA
+"2022-04-20 17:02","2022-04-20 17:03",0,"Anonymized",100,68,1,"2022-04-20 17:03","R_238XFNazqolPD9k",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,3,2,1,"I thought that the humanoid robot looked like a real person",1,2,3,4,NA,1,NA
+"2022-04-20 17:06","2022-04-20 17:07",0,"Anonymized",100,68,1,"2022-04-20 17:07","R_25yJJlBJ5ueCZi2",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,5,0,1,"That looked like a human.  It was hard to imagine that photo as not being a human.",1,2,3,4,NA,1,NA
+"2022-04-20 17:15","2022-04-20 17:17",0,"Anonymized",100,121,1,"2022-04-20 17:17","R_26bhP5nrqU4lw8r",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,1,"That was a real person. And no fake person will work in a pharmacy. ",1,2,3,4,NA,1,NA
+"2022-04-20 17:27","2022-04-20 17:27",0,"Anonymized",100,39,1,"2022-04-20 17:27","R_w1X77McFHLWJdvP",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,1,0,1,"It seems totally fake ",1,2,3,4,1,NA,NA
+"2022-04-20 15:18","2022-04-20 15:19",0,"Anonymized",100,64,1,"2022-04-20 15:19","R_UhUkKhp8Ti6q9SV",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,4,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:21","2022-04-20 15:22",0,"Anonymized",100,34,1,"2022-04-20 15:22","R_1hJZX7fR7b26C0S",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"asking if people have souls..?",0,2,3,4,NA,NA,1
+"2022-04-20 15:24","2022-04-20 15:24",0,"Anonymized",100,21,1,"2022-04-20 15:24","R_6f0WQiFf835WqHf",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 15:27","2022-04-20 15:28",0,"Anonymized",100,52,1,"2022-04-20 15:28","R_2Ys8KkzwUBJCe0Z",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 15:29","2022-04-20 15:29",0,"Anonymized",100,22,1,"2022-04-20 15:29","R_1HkmGbKGpMJmDVL",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,8,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:28","2022-04-20 15:30",0,"Anonymized",100,141,1,"2022-04-20 15:30","R_R2jKLJS576sbkdz",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,5,1,"the final two questions were phrased strangely, ""do you believe this has..."" There was no indication of what ""this"" is though the assumption I made was the image of the pharmacy worker.",0,2,3,4,NA,NA,1
+"2022-04-20 15:32","2022-04-20 15:32",0,"Anonymized",100,39,1,"2022-04-20 15:32","R_2SubZbVa6YFlHw0",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,10,10,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:33","2022-04-20 15:34",0,"Anonymized",100,27,1,"2022-04-20 15:34","R_27lq7jmaL7K9yFR",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,3,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 15:40","2022-04-20 15:40",0,"Anonymized",100,23,1,"2022-04-20 15:40","R_3myy9Oy2lPuAwut",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,8,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 15:40","2022-04-20 15:40",0,"Anonymized",100,26,1,"2022-04-20 15:40","R_1DMWIjxNedGZQrI",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,5,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:42","2022-04-20 15:43",0,"Anonymized",100,32,1,"2022-04-20 15:43","R_b78AZa8UDEnP23D",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 15:42","2022-04-20 15:43",0,"Anonymized",100,51,1,"2022-04-20 15:43","R_2Cmh1NqRiC0eP76",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,9,9,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:46","2022-04-20 15:47",0,"Anonymized",100,59,1,"2022-04-20 15:47","R_1Pd7ZanRpwNgFed",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,2,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:48","2022-04-20 15:49",0,"Anonymized",100,49,1,"2022-04-20 15:49","R_2do6XpUSEhBjiuU",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:49","2022-04-20 15:50",0,"Anonymized",100,42,1,"2022-04-20 15:50","R_3PnwtROyIWuuM71",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,8,8,1,"It made me think the picture was of an AI robot or something since it asked about consciousness and having a soul",0,2,3,4,NA,NA,1
+"2022-04-20 15:49","2022-04-20 15:50",0,"Anonymized",100,74,1,"2022-04-20 15:50","R_1FDPP0wSGXMnLzO",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:50","2022-04-20 15:51",0,"Anonymized",100,27,1,"2022-04-20 15:51","R_Rhnpq4uGY1lipqN",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:50","2022-04-20 15:51",0,"Anonymized",100,51,1,"2022-04-20 15:51","R_2YJM6Q8r3UxdRgb",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,2,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:51","2022-04-20 15:52",0,"Anonymized",100,55,1,"2022-04-20 15:52","R_xDwYSAKgN8EDgA1",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,1,NA,1,"If it is a humanoid, questions regarding a soul are not applicable",0,2,3,4,1,NA,NA
+"2022-04-20 15:52","2022-04-20 15:53",0,"Anonymized",100,45,1,"2022-04-20 15:53","R_12fgEXsuZrDW3Nb",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"the way the questions are phrased ",0,2,3,4,NA,NA,1
+"2022-04-20 15:52","2022-04-20 15:53",0,"Anonymized",100,23,1,"2022-04-20 15:53","R_1Cr8nYWzODibY80",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,1,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:53","2022-04-20 15:53",0,"Anonymized",100,21,1,"2022-04-20 15:53","R_1GDpYsn64tj8EEE",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,8,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 15:54","2022-04-20 15:54",0,"Anonymized",100,27,1,"2022-04-20 15:54","R_1NhqSOFIbmfqfBH",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,5,5,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 15:53","2022-04-20 15:54",0,"Anonymized",100,96,1,"2022-04-20 15:54","R_2aaDreczkAJHgbv",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,1,NA,1,"I just felt uneasy about the questions, especially the ""soul"" question. Not sure if it also matters, but I noticed the ""model"" was not white and if that had anything to do with the questions.",0,2,3,4,NA,1,NA
+"2022-04-20 15:53","2022-04-20 15:55",0,"Anonymized",100,109,1,"2022-04-20 15:55","R_3MhY4BKYsSSKp8q",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:55","2022-04-20 15:55",0,"Anonymized",100,27,1,"2022-04-20 15:55","R_8xqpWkaH5dwvBrX",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 15:56","2022-04-20 15:56",0,"Anonymized",100,18,1,"2022-04-20 15:56","R_0udLMnxuz20eZqN",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,3,3,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 15:55","2022-04-20 15:57",0,"Anonymized",100,118,1,"2022-04-20 15:57","R_1LNc1uXSs8vSBFL",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,4,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 15:57","2022-04-20 15:58",0,"Anonymized",100,41,1,"2022-04-20 15:58","R_1hXqs7sLpboZ1QY",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 15:57","2022-04-20 15:58",0,"Anonymized",100,67,1,"2022-04-20 15:58","R_2rYphOgjniiUwqo",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,10,0,1,"That you're asking.",0,2,3,4,1,NA,NA
+"2022-04-20 15:58","2022-04-20 15:58",0,"Anonymized",100,32,1,"2022-04-20 15:58","R_2yl3QA0kQgPmmT1",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,2,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 15:59","2022-04-20 15:59",0,"Anonymized",100,37,1,"2022-04-20 15:59","R_3GvpWBVQRUuEWjr",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 15:58","2022-04-20 15:59",0,"Anonymized",100,42,1,"2022-04-20 15:59","R_1KrvhuHdPO9mInp",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"That the word person was missing. ",0,2,3,4,NA,NA,1
+"2022-04-20 16:01","2022-04-20 16:01",0,"Anonymized",100,30,1,"2022-04-20 16:01","R_1KqkKULbgiaM8VU",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,2,NA,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:00","2022-04-20 16:02",0,"Anonymized",100,72,1,"2022-04-20 16:02","R_pzaTXWeKX4c4wWl",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:01","2022-04-20 16:02",0,"Anonymized",100,34,1,"2022-04-20 16:02","R_2AG6RjAFnuP9YuQ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,6,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:04","2022-04-20 16:04",0,"Anonymized",100,24,1,"2022-04-20 16:04","R_2zHngve3rf4pmyX",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,4,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:05","2022-04-20 16:05",0,"Anonymized",100,26,1,"2022-04-20 16:05","R_1FLJQf8SWQMXz9E",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:07","2022-04-20 16:07",0,"Anonymized",100,19,1,"2022-04-20 16:07","R_3htC2DKdqtUz8Ti",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:06","2022-04-20 16:07",0,"Anonymized",100,54,1,"2022-04-20 16:07","R_1JOvxa2vnRC21Wq",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"she might be a robot",0,2,3,4,NA,NA,1
+"2022-04-20 16:07","2022-04-20 16:07",0,"Anonymized",100,31,1,"2022-04-20 16:07","R_2AYhfkgvbhCWpjP",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:07","2022-04-20 16:08",0,"Anonymized",100,35,1,"2022-04-20 16:08","R_1d5FbReZcfuIGUB",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,0,1,1,"The picture",0,2,3,4,NA,1,NA
+"2022-04-20 16:07","2022-04-20 16:08",0,"Anonymized",100,63,1,"2022-04-20 16:08","R_2DMqxLOt8jrGghA",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,10,1,"I suspect that the ""person"" is a computer-generated image, in which case I wouldn't view it as favorably.",0,2,3,4,NA,NA,1
+"2022-04-20 16:08","2022-04-20 16:08",0,"Anonymized",100,32,1,"2022-04-20 16:08","R_ai77s6HQG3ZGUNz",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:07","2022-04-20 16:08",0,"Anonymized",100,55,1,"2022-04-20 16:08","R_3MfK93UymSgSEtP",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:09","2022-04-20 16:10",0,"Anonymized",100,28,1,"2022-04-20 16:10","R_u7Fv26f8ZKPyToR",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:09","2022-04-20 16:10",0,"Anonymized",100,54,1,"2022-04-20 16:10","R_2ZNZpcAgxpwcZ83",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:10","2022-04-20 16:11",0,"Anonymized",100,71,1,"2022-04-20 16:11","R_3Hp4BY07CVLVgI1",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,10,1,"The questions asked made me wonder if this image was completely computer-generated and not a real person.",0,2,3,4,NA,NA,1
+"2022-04-20 16:11","2022-04-20 16:11",0,"Anonymized",100,24,1,"2022-04-20 16:11","R_3CJEwzxcMrqrNyS",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,8,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:11","2022-04-20 16:12",0,"Anonymized",100,27,1,"2022-04-20 16:12","R_1kYaD7RmJcdLjUm",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:11","2022-04-20 16:12",0,"Anonymized",100,26,1,"2022-04-20 16:12","R_1gAaJDc8QApmDX6",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,1,1,"The person is a robot",0,2,3,4,NA,1,NA
+"2022-04-20 16:12","2022-04-20 16:13",0,"Anonymized",100,51,1,"2022-04-20 16:13","R_qDAxYAPV2RNy68p",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"it was just a girl and I was asked if she had a soul ",0,2,3,4,NA,NA,1
+"2022-04-20 16:13","2022-04-20 16:13",0,"Anonymized",100,32,1,"2022-04-20 16:13","R_2CNz6DorgdMzQqC",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,5,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:13","2022-04-20 16:13",0,"Anonymized",100,36,1,"2022-04-20 16:13","R_3PObjjqaE5oqaas",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,3,3,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:12","2022-04-20 16:14",0,"Anonymized",100,91,1,"2022-04-20 16:14","R_3PZAlYAHpQJ9GqJ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,1,1,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:14","2022-04-20 16:14",0,"Anonymized",100,28,1,"2022-04-20 16:14","R_1nOZHDmxOOoqbky",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,5,3,1,"asking if a photo has a soul ",0,2,3,4,NA,NA,1
+"2022-04-20 16:14","2022-04-20 16:15",0,"Anonymized",100,26,1,"2022-04-20 16:15","R_1FgECRkqNqaMocp",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:14","2022-04-20 16:15",0,"Anonymized",100,110,1,"2022-04-20 16:15","R_1pzc30TWjVGH4z3",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"The questions referred to the woman as “it”",0,2,3,4,NA,NA,1
+"2022-04-20 16:15","2022-04-20 16:16",0,"Anonymized",100,25,1,"2022-04-20 16:16","R_9HMTtSqmlIVEkcV",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,4,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:14","2022-04-20 16:16",0,"Anonymized",100,172,1,"2022-04-20 16:16","R_3dY3FLUILlwUmDy",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:16","2022-04-20 16:16",0,"Anonymized",100,28,1,"2022-04-20 16:16","R_2EfNgBAReVuSJm2",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,3,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:18","2022-04-20 16:18",0,"Anonymized",100,22,1,"2022-04-20 16:18","R_3EEm2chRRxAX5E4",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,0,0,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:18","2022-04-20 16:18",0,"Anonymized",100,19,1,"2022-04-20 16:18","R_0ivQRRB72jvP3Pz",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:19","2022-04-20 16:19",0,"Anonymized",100,21,1,"2022-04-20 16:19","R_0kdewW5Wptnm2S5",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,2,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:19","2022-04-20 16:19",0,"Anonymized",100,19,1,"2022-04-20 16:19","R_UKlsP2mcIxHnuOl",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,6,10,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:19","2022-04-20 16:20",0,"Anonymized",100,49,1,"2022-04-20 16:20","R_27ey9U4sO08QDvo",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:15","2022-04-20 16:21",0,"Anonymized",100,342,1,"2022-04-20 16:21","R_2QugrcdgwbgKfko",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:19","2022-04-20 16:21",0,"Anonymized",100,106,1,"2022-04-20 16:21","R_3feZ2pcsSUZmDaV",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,8,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:21","2022-04-20 16:21",0,"Anonymized",100,24,1,"2022-04-20 16:21","R_D7AMFOvZrMiFxkd",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:21","2022-04-20 16:22",0,"Anonymized",100,46,1,"2022-04-20 16:22","R_1FhqA8poEx7qKHK",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:22","2022-04-20 16:23",0,"Anonymized",100,61,1,"2022-04-20 16:23","R_1HqatXaDGjWBQUL",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,3,0,1,"the picture looked overwhelmingly real",0,2,3,4,NA,1,NA
+"2022-04-20 16:22","2022-04-20 16:23",0,"Anonymized",100,90,1,"2022-04-20 16:23","R_2viA67GXAcdcy7K",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"I thought the questions were weird and referred to the person as this",0,2,3,4,NA,NA,1
+"2022-04-20 16:23","2022-04-20 16:24",0,"Anonymized",100,24,1,"2022-04-20 16:24","R_2YD7414Q8xJBOZK",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:23","2022-04-20 16:24",0,"Anonymized",100,28,1,"2022-04-20 16:24","R_3ix2d7cNK0yX2ec",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:23","2022-04-20 16:24",0,"Anonymized",100,53,1,"2022-04-20 16:24","R_1GP0xti7SxM7Yli",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,8,6,1,"Instead of a worker being addressed as a person.  I saw the words this was working here",0,2,3,4,NA,NA,1
+"2022-04-20 16:24","2022-04-20 16:25",0,"Anonymized",100,44,1,"2022-04-20 16:25","R_3L7o2Yx1h71HluA",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:24","2022-04-20 16:25",0,"Anonymized",100,49,1,"2022-04-20 16:25","R_2yeofu8lDXUwH4D",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"I found it kind of suspicious that it didn't use the word ""human"" or ""girl"" in the questions, it just said ""do you find that this...""",0,2,3,4,NA,NA,1
+"2022-04-20 16:25","2022-04-20 16:25",0,"Anonymized",100,45,1,"2022-04-20 16:25","R_3hs8gQG4NoGML7z",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,7,9,1,"that you asked if it was suspicious and you referred to the person as an ""it""",0,2,3,4,NA,NA,1
+"2022-04-20 16:25","2022-04-20 16:26",0,"Anonymized",100,32,1,"2022-04-20 16:26","R_10Iu2pow5yRf9VU",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:26","2022-04-20 16:26",0,"Anonymized",100,15,1,"2022-04-20 16:26","R_22LgOTG7UK7lbwP",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:25","2022-04-20 16:26",0,"Anonymized",100,64,1,"2022-04-20 16:26","R_bwPdg20YUPQt8ml",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,1,"There was no up front informed consent. And who thinks AI has a soul?",0,2,3,4,1,NA,NA
+"2022-04-20 16:26","2022-04-20 16:27",0,"Anonymized",100,52,1,"2022-04-20 16:27","R_Ac9Q25Y0g9tHb45",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:26","2022-04-20 16:27",0,"Anonymized",100,73,1,"2022-04-20 16:27","R_27WNWvzgRHEoxPV",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,1,1,1,"The eyes of that robot is very unsettling. I get an uncanny valley feeling.",0,2,3,4,1,NA,NA
+"2022-04-20 16:25","2022-04-20 16:27",0,"Anonymized",100,125,1,"2022-04-20 16:27","R_sd0D2nUFjNF1m25",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,5,0,1,"The fact that human looking robots work at a pharmacy...",0,2,3,4,1,NA,NA
+"2022-04-20 16:26","2022-04-20 16:27",0,"Anonymized",100,69,1,"2022-04-20 16:27","R_3O5DilRRG8KzEcN",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,3,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:27","2022-04-20 16:27",0,"Anonymized",100,20,1,"2022-04-20 16:27","R_7Wo6KXmpeZOCsQF",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:27","2022-04-20 16:27",0,"Anonymized",100,16,1,"2022-04-20 16:27","R_2zwmPhiASqaOQxl",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:27","2022-04-20 16:28",0,"Anonymized",100,39,1,"2022-04-20 16:28","R_2uDs1ANmqA9JFw2",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:26","2022-04-20 16:28",0,"Anonymized",100,97,1,"2022-04-20 16:28","R_RysSR7urkibHr69",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,10,1,"more like confusing. You referred to the woman as this when asking if she had a consciousness or soul. ",0,2,3,4,NA,NA,1
+"2022-04-20 16:28","2022-04-20 16:28",0,"Anonymized",100,30,1,"2022-04-20 16:28","R_1hHgsU11OOoHVeI",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,6,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:28","2022-04-20 16:29",0,"Anonymized",100,49,1,"2022-04-20 16:29","R_Za8y2Q6NCuUL6O5",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,2,1,1,"The fact that I was asked if I found anything suspicious.",0,2,3,4,NA,1,NA
+"2022-04-20 16:29","2022-04-20 16:30",0,"Anonymized",100,32,1,"2022-04-20 16:30","R_3fPqTpv6QesXamb",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,3,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:31","2022-04-20 16:31",0,"Anonymized",100,21,1,"2022-04-20 16:31","R_2xVGfK5afq4rkIy",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:31","2022-04-20 16:32",0,"Anonymized",100,23,1,"2022-04-20 16:32","R_PMrFNlKvU0ZTEGt",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:32","2022-04-20 16:32",0,"Anonymized",100,23,1,"2022-04-20 16:32","R_3siME7hl8xbbarn",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,3,2,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:32","2022-04-20 16:32",0,"Anonymized",100,17,1,"2022-04-20 16:32","R_31bGPqEiV2zr459",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,3,2,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:32","2022-04-20 16:32",0,"Anonymized",100,51,1,"2022-04-20 16:32","R_3GjF5Mrmf4Bbf89",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:32","2022-04-20 16:33",0,"Anonymized",100,52,1,"2022-04-20 16:33","R_1daFjm2UtwCXa1u",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:32","2022-04-20 16:33",0,"Anonymized",100,44,1,"2022-04-20 16:33","R_1QA4UlfxEVWNkbb",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:34","2022-04-20 16:34",0,"Anonymized",100,30,1,"2022-04-20 16:34","R_qVEjLAE9bdn1i4V",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:34","2022-04-20 16:35",0,"Anonymized",100,25,1,"2022-04-20 16:35","R_3pg6uW0MxAFsiHh",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:35","2022-04-20 16:36",0,"Anonymized",100,15,1,"2022-04-20 16:36","R_3HOG0bgbXhFgRI3",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:36","2022-04-20 16:36",0,"Anonymized",100,28,1,"2022-04-20 16:36","R_yJxwmGGOU2HcmS5",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:35","2022-04-20 16:37",0,"Anonymized",100,80,1,"2022-04-20 16:37","R_3Do2H5giAT31G5K",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,1,0,1,"Motivation for asking about non-independent AI Bots. Their programming is controlled by the company.",0,2,3,4,1,NA,NA
+"2022-04-20 16:37","2022-04-20 16:37",0,"Anonymized",100,14,1,"2022-04-20 16:37","R_2TufKZv5jR4wM07",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:37","2022-04-20 16:37",0,"Anonymized",100,27,1,"2022-04-20 16:37","R_0Nvt1vYh2tjNSzD",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,2,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:37","2022-04-20 16:37",0,"Anonymized",100,14,1,"2022-04-20 16:37","R_4PkQ7o5ubCrSQ6Z",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,5,2,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:37","2022-04-20 16:37",0,"Anonymized",100,24,1,"2022-04-20 16:38","R_3ZTvH7l5uvbErex",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:37","2022-04-20 16:37",0,"Anonymized",100,24,1,"2022-04-20 16:38","R_2zTLy2xyCIhQNzP",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,6,2,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:37","2022-04-20 16:37",0,"Anonymized",100,36,1,"2022-04-20 16:38","R_3fxwlbHij6VPQY4",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"phrasing, intro implied it was a person, then Q1 was like employed THIS",0,2,3,4,NA,NA,1
+"2022-04-20 16:37","2022-04-20 16:38",0,"Anonymized",100,48,1,"2022-04-20 16:38","R_51PnV5nswKM4IvL",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,9,10,1,"sometimes it seems like words were missing from the questions",0,2,3,4,NA,NA,1
+"2022-04-20 16:37","2022-04-20 16:38",0,"Anonymized",100,30,1,"2022-04-20 16:38","R_2U9skVOUf2u5CPh",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,8,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:38","2022-04-20 16:38",0,"Anonymized",100,20,1,"2022-04-20 16:38","R_3PpiaMP9gftj0eo",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:38","2022-04-20 16:38",0,"Anonymized",100,34,1,"2022-04-20 16:38","R_3Eyf15z68B8Mi5Q",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,5,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:38","2022-04-20 16:39",0,"Anonymized",100,16,1,"2022-04-20 16:39","R_1I4y5pM8dTTN0I1",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,6,5,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:37","2022-04-20 16:39",0,"Anonymized",100,99,1,"2022-04-20 16:39","R_2TTViPAcvS5fxxj",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,10,9,1,"You referred to the woman as ""this"".",0,2,3,4,NA,NA,1
+"2022-04-20 16:39","2022-04-20 16:39",0,"Anonymized",100,21,1,"2022-04-20 16:39","R_1CpQ0hKtIAvny5s",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,2,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:38","2022-04-20 16:40",0,"Anonymized",100,64,1,"2022-04-20 16:40","R_1KxO6dBPsUsbqFD",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:40","2022-04-20 16:40",0,"Anonymized",100,37,1,"2022-04-20 16:40","R_2Brqmx8clT6BELd",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:40","2022-04-20 16:41",0,"Anonymized",100,28,1,"2022-04-20 16:41","R_1kIkq43vRxsQAXC",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,4,1,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:40","2022-04-20 16:41",0,"Anonymized",100,47,1,"2022-04-20 16:41","R_2bPnxLrS8fB9x3n",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:40","2022-04-20 16:41",0,"Anonymized",100,17,1,"2022-04-20 16:41","R_2BsUK4vFpRF8oXx",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:40","2022-04-20 16:41",0,"Anonymized",100,26,1,"2022-04-20 16:41","R_OPCG5vfeufVG4PT",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:41","2022-04-20 16:41",0,"Anonymized",100,31,1,"2022-04-20 16:41","R_1rHti7KOLSpLZX6",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:42","2022-04-20 16:42",0,"Anonymized",100,25,1,"2022-04-20 16:42","R_1juF7CiugfBQ8LY",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:42","2022-04-20 16:43",0,"Anonymized",100,23,1,"2022-04-20 16:43","R_3rdhym7yQP6V9cZ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:42","2022-04-20 16:43",0,"Anonymized",100,40,1,"2022-04-20 16:43","R_3Gwi8kZJHYRVSn5",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,5,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:43","2022-04-20 16:44",0,"Anonymized",100,71,1,"2022-04-20 16:44","R_3RdVTaykga8Elxr",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,10,1,"I found asking if someone has a soul based on solely an image suspicious.",0,2,3,4,NA,NA,1
+"2022-04-20 16:44","2022-04-20 16:44",0,"Anonymized",100,26,1,"2022-04-20 16:44","R_dmVdPpVWc9RtGiR",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:44","2022-04-20 16:45",0,"Anonymized",100,24,1,"2022-04-20 16:45","R_1pVXbY9NzMHZtlK",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,NA,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:45","2022-04-20 16:45",0,"Anonymized",100,29,1,"2022-04-20 16:45","R_11dUlc9S9nW1jye",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:45","2022-04-20 16:45",0,"Anonymized",100,41,1,"2022-04-20 16:45","R_1PbI5jPm17vdMMJ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"There was no mention of who/what the person was, ie: no ""human""",0,2,3,4,NA,NA,1
+"2022-04-20 16:45","2022-04-20 16:45",0,"Anonymized",100,47,1,"2022-04-20 16:45","R_27s1QZXh51DEYlQ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,5,4,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:45","2022-04-20 16:46",0,"Anonymized",100,26,1,"2022-04-20 16:46","R_3PN1eQ1p0WNYJqT",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,2,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:46","2022-04-20 16:46",0,"Anonymized",100,15,1,"2022-04-20 16:46","R_3qJcXyFpCQQNnfm",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:46","2022-04-20 16:47",0,"Anonymized",100,56,1,"2022-04-20 16:47","R_DrcujoErDzQ81Yl",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:46","2022-04-20 16:47",0,"Anonymized",100,52,1,"2022-04-20 16:47","R_2uUGanRb56FUCXL",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:46","2022-04-20 16:47",0,"Anonymized",100,26,1,"2022-04-20 16:47","R_33Dtdag1mN6a9QZ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:46","2022-04-20 16:47",0,"Anonymized",100,40,1,"2022-04-20 16:47","R_3gL2wzqr96vQBEY",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,6,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:46","2022-04-20 16:47",0,"Anonymized",100,35,1,"2022-04-20 16:47","R_2uPVfWGU5xbEk6h",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:46","2022-04-20 16:47",0,"Anonymized",100,36,1,"2022-04-20 16:47","R_1H1aJys5kMFwlCv",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,3,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:47","2022-04-20 16:48",0,"Anonymized",100,26,1,"2022-04-20 16:48","R_3rIozeWV7xULgAr",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,8,6,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:45","2022-04-20 16:48",0,"Anonymized",100,184,1,"2022-04-20 16:48","R_3Hv56iViDwMdH6u",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,4,6,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:48","2022-04-20 16:48",0,"Anonymized",100,16,1,"2022-04-20 16:48","R_3PMhJQ3Kg7tTWP3",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,1,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:48","2022-04-20 16:49",0,"Anonymized",100,37,1,"2022-04-20 16:49","R_1DqLsPhXPlwyL6N",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:49","2022-04-20 16:49",0,"Anonymized",100,44,1,"2022-04-20 16:49","R_1DCJ7DMWzi9ByR6",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:49","2022-04-20 16:50",0,"Anonymized",100,36,1,"2022-04-20 16:50","R_2snr73sXmBquOnn",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:49","2022-04-20 16:50",0,"Anonymized",100,20,1,"2022-04-20 16:50","R_3EhE77ABhsSJ974",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:50","2022-04-20 16:50",0,"Anonymized",100,37,1,"2022-04-20 16:50","R_AO49mbNMlF3oGdz",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:50","2022-04-20 16:51",0,"Anonymized",100,36,1,"2022-04-20 16:51","R_1BXhrAU8xBMltP2",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,0,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:50","2022-04-20 16:51",0,"Anonymized",100,24,1,"2022-04-20 16:51","R_2aQeO95XFuTjEoJ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,3,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:51","2022-04-20 16:52",0,"Anonymized",100,18,1,"2022-04-20 16:52","R_30jUbTDadHHpnTV",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,10,5,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:51","2022-04-20 16:52",0,"Anonymized",100,24,1,"2022-04-20 16:52","R_1obrPgQrZTfmaNS",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:51","2022-04-20 16:52",0,"Anonymized",100,31,1,"2022-04-20 16:52","R_1P1Ky5jpfrvRzGy",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,1,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:52","2022-04-20 16:53",0,"Anonymized",100,23,1,"2022-04-20 16:53","R_3PC9I3Am5MLxvrK",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:53","2022-04-20 16:53",0,"Anonymized",100,17,1,"2022-04-20 16:53","R_3oLzLntiMMmBgTv",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:53","2022-04-20 16:53",0,"Anonymized",100,29,1,"2022-04-20 16:53","R_2E5ovAGlxfCWRQd",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:52","2022-04-20 16:54",0,"Anonymized",100,72,1,"2022-04-20 16:54","R_WqAceNzPtCBTdnz",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 16:54","2022-04-20 16:54",0,"Anonymized",100,25,1,"2022-04-20 16:54","R_3MzLxM4ygmhOX2Z",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,1,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:53","2022-04-20 16:54",0,"Anonymized",100,42,1,"2022-04-20 16:54","R_1Du00N3cjecMDlN",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,1,"You're trying to gauge our reactions for this creepy robot substitution that's coming soon.",0,2,3,4,1,NA,NA
+"2022-04-20 16:53","2022-04-20 16:54",0,"Anonymized",100,34,1,"2022-04-20 16:54","R_3prIf8fM50K3aRk",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:53","2022-04-20 16:54",0,"Anonymized",100,57,1,"2022-04-20 16:54","R_2sX90YQKpXMhqSS",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,8,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:39","2022-04-20 16:55",0,"Anonymized",100,933,1,"2022-04-20 16:55","R_3HMKlexHyNSiXwB",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:54","2022-04-20 16:55",0,"Anonymized",100,48,1,"2022-04-20 16:55","R_29tsKyz8LLJ3RfS",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:54","2022-04-20 16:55",0,"Anonymized",100,25,1,"2022-04-20 16:55","R_1r2EDPgNBRKNieM",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,3,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:54","2022-04-20 16:55",0,"Anonymized",100,36,1,"2022-04-20 16:55","R_1DSyfI7DyaK3Bzx",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,7,6,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:54","2022-04-20 16:56",0,"Anonymized",100,75,1,"2022-04-20 16:56","R_2as16edEwJa9pnP",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,2,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:56","2022-04-20 16:56",0,"Anonymized",100,15,1,"2022-04-20 16:56","R_2foB0HRPx9MkrXy",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:55","2022-04-20 16:57",0,"Anonymized",100,83,1,"2022-04-20 16:57","R_3Kr7Uh2MsLiTifI",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,6,7,1,"Vagueness of ""this"" in the consciousness and soul questions.",0,2,3,4,NA,NA,1
+"2022-04-20 16:56","2022-04-20 16:57",0,"Anonymized",100,32,1,"2022-04-20 16:57","R_DwqfI3ziWyP4JuV",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,2,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:55","2022-04-20 16:57",0,"Anonymized",100,84,1,"2022-04-20 16:57","R_6MC5utz71hJdmSd",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:57","2022-04-20 16:58",0,"Anonymized",100,28,1,"2022-04-20 16:58","R_1CmxqlkSDH5zMPT",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,2,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 16:58","2022-04-20 16:58",0,"Anonymized",100,30,1,"2022-04-20 16:58","R_2QMVesE6LOyCIne",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,8,2,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 16:59","2022-04-20 17:00",0,"Anonymized",100,90,1,"2022-04-20 17:00","R_9Tta4fJN0PUaqQN",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,0,1,"It seemed as if the questions were about a non-human entity. ",0,2,3,4,NA,NA,1
+"2022-04-20 16:59","2022-04-20 17:00",0,"Anonymized",100,51,1,"2022-04-20 17:00","R_1OvssuSLLOphToJ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,1,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:00","2022-04-20 17:01",0,"Anonymized",100,27,1,"2022-04-20 17:01","R_2BzYpH2NsopPpHL",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:01","2022-04-20 17:01",0,"Anonymized",100,33,1,"2022-04-20 17:01","R_QoFXADtHv0nJ0xX",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:00","2022-04-20 17:01",0,"Anonymized",100,51,1,"2022-04-20 17:01","R_1hMdFheQPsivcql",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:00","2022-04-20 17:01",0,"Anonymized",100,71,1,"2022-04-20 17:01","R_SOcJuQwcuTUQkvL",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"Why was the lady referred to as ""this?""",0,2,3,4,NA,NA,1
+"2022-04-20 17:01","2022-04-20 17:01",0,"Anonymized",100,33,1,"2022-04-20 17:01","R_2uBYcPIUatsrN62",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:01","2022-04-20 17:02",0,"Anonymized",100,35,1,"2022-04-20 17:02","R_zePasUeXLvyux5T",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:02","2022-04-20 17:02",0,"Anonymized",100,30,1,"2022-04-20 17:02","R_29gDUfzZZKkbRfM",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,2,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:02","2022-04-20 17:03",0,"Anonymized",100,23,1,"2022-04-20 17:03","R_2BrBY6zvicfIgJm",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,5,3,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:02","2022-04-20 17:04",0,"Anonymized",100,75,1,"2022-04-20 17:04","R_3lDBnSrFKt0gEs4",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:03","2022-04-20 17:04",0,"Anonymized",100,36,1,"2022-04-20 17:04","R_31ZT9CmZYzkHr55",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,3,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:04","2022-04-20 17:05",0,"Anonymized",100,60,1,"2022-04-20 17:05","R_9BlwWulvhdKGo1P",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,6,0,1,"Use of Asian characteristics on robot",0,2,3,4,NA,1,NA
+"2022-04-20 17:04","2022-04-20 17:05",0,"Anonymized",100,34,1,"2022-04-20 17:05","R_1Kx21AYc8OzqTi4",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"Referring to the person as ""this""",0,2,3,4,NA,NA,1
+"2022-04-20 17:04","2022-04-20 17:05",0,"Anonymized",100,28,1,"2022-04-20 17:05","R_1OCUYpRyrrNZrJU",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:05","2022-04-20 17:05",0,"Anonymized",100,16,1,"2022-04-20 17:05","R_2VjxZ5NKTHeFckz",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:05","2022-04-20 17:05",0,"Anonymized",100,28,1,"2022-04-20 17:05","R_b2cFbfw7uRMnrPj",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:05","2022-04-20 17:05",0,"Anonymized",100,21,1,"2022-04-20 17:05","R_3rOhq9r0ukpv8F9",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,2,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:05","2022-04-20 17:05",0,"Anonymized",100,37,1,"2022-04-20 17:05","R_1gun4cWn1YEwzT0",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:06","2022-04-20 17:06",0,"Anonymized",100,23,1,"2022-04-20 17:06","R_p4R8JHzMvqduvvz",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:06","2022-04-20 17:06",0,"Anonymized",100,44,1,"2022-04-20 17:06","R_OpeeTG8JpoaDz7r",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"There was a missing word in each of the sentences, i.e. ""do you think this ___ has a soul/etc.""",0,2,3,4,NA,NA,1
+"2022-04-20 17:06","2022-04-20 17:06",0,"Anonymized",100,37,1,"2022-04-20 17:06","R_bf44BSeskHd0aVr",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:06","2022-04-20 17:07",0,"Anonymized",100,64,1,"2022-04-20 17:07","R_22y38VXBViiXC0d",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,8,1,"the use of ""this"" after initially identifying a ""woman""",0,2,3,4,NA,NA,1
+"2022-04-20 17:06","2022-04-20 17:07",0,"Anonymized",100,47,1,"2022-04-20 17:07","R_3MlDMl8dri5EgEH",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,0,0,1,"that they used a picture of a real person",0,2,3,4,NA,1,NA
+"2022-04-20 17:07","2022-04-20 17:07",0,"Anonymized",100,25,1,"2022-04-20 17:07","R_3eyMh7TWEdrqA2W",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,9,9,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:07","2022-04-20 17:08",0,"Anonymized",100,17,1,"2022-04-20 17:08","R_RggeI639rimMRnX",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,7,8,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:07","2022-04-20 17:08",0,"Anonymized",100,20,1,"2022-04-20 17:08","R_1OW9utClrNLWTba",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:08","2022-04-20 17:08",0,"Anonymized",100,21,1,"2022-04-20 17:08","R_1Qu6TvtZdKwm50y",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,3,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:08","2022-04-20 17:08",0,"Anonymized",100,31,1,"2022-04-20 17:08","R_eaLgdThd7WSCIj7",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,9,0,1,"you left out the word woman",0,2,3,4,NA,NA,1
+"2022-04-20 17:08","2022-04-20 17:08",0,"Anonymized",100,31,1,"2022-04-20 17:08","R_wTOWiBz47LxGAq5",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:07","2022-04-20 17:08",0,"Anonymized",100,58,1,"2022-04-20 17:08","R_C2Hv5G9cEYhH3SF",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:08","2022-04-20 17:09",0,"Anonymized",100,18,1,"2022-04-20 17:09","R_2CNSst6yAEwHazP",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:08","2022-04-20 17:09",0,"Anonymized",100,37,1,"2022-04-20 17:09","R_RqwM5rYYXhxezbb",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:08","2022-04-20 17:09",0,"Anonymized",100,61,1,"2022-04-20 17:09","R_3PBnX9zxnaajfNp",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:09","2022-04-20 17:09",0,"Anonymized",100,30,1,"2022-04-20 17:09","R_1l5Wx2pAr61wFGh",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,8,0,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:08","2022-04-20 17:09",0,"Anonymized",100,73,1,"2022-04-20 17:09","R_qPyKoLJmyao5Q0p",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,6,1,"The questions are up to interpretation ",0,2,3,4,NA,NA,1
+"2022-04-20 17:08","2022-04-20 17:10",0,"Anonymized",100,60,1,"2022-04-20 17:10","R_2QXazHFf7jMX8FB",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"That their was an implication that this was not a real women but instead an AI.",0,2,3,4,NA,NA,1
+"2022-04-20 17:08","2022-04-20 17:10",0,"Anonymized",100,102,1,"2022-04-20 17:10","R_WjIzwJyOAig9Tln",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,2,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:09","2022-04-20 17:10",0,"Anonymized",100,27,1,"2022-04-20 17:10","R_1owkbPK66BvXhTO",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:09","2022-04-20 17:10",0,"Anonymized",100,37,1,"2022-04-20 17:10","R_R9oFebxfRZJp8pH",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:10","2022-04-20 17:10",0,"Anonymized",100,20,1,"2022-04-20 17:10","R_pS2GudTXxyBz4YN",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,1,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:09","2022-04-20 17:10",0,"Anonymized",100,41,1,"2022-04-20 17:10","R_262UEubLoVYd45k",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,3,3,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:09","2022-04-20 17:10",0,"Anonymized",100,71,1,"2022-04-20 17:10","R_2Cyv9RefawoRJmp",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,6,7,1,"It seemed like there were words missing in the questions.",0,2,3,4,NA,NA,1
+"2022-04-20 17:10","2022-04-20 17:10",0,"Anonymized",100,42,1,"2022-04-20 17:10","R_d9UkhNaHajZlL8d",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,8,8,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:10","2022-04-20 17:11",0,"Anonymized",100,36,1,"2022-04-20 17:11","R_21dBs1BPruj62lW",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,10,1,"I'm wondering if she is a real person or an AI on a screen",0,2,3,4,NA,NA,1
+"2022-04-20 17:08","2022-04-20 17:11",0,"Anonymized",100,161,1,"2022-04-20 17:11","R_3CU88Q4Nz1g39Zg",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,1,1,1,"Asking if robots have souls will always seem suspicious.",0,2,3,4,1,NA,NA
+"2022-04-20 17:09","2022-04-20 17:11",0,"Anonymized",100,135,1,"2022-04-20 17:11","R_3NyR7TPKel9xKIN",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:11","2022-04-20 17:11",0,"Anonymized",100,38,1,"2022-04-20 17:11","R_3prnMT6B5yrsdjt",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,10,1,"The question was kind of weird",0,2,3,4,NA,NA,1
+"2022-04-20 17:04","2022-04-20 17:11",0,"Anonymized",100,460,1,"2022-04-20 17:11","R_xflRCnkwAREpgtz",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:11","2022-04-20 17:12",0,"Anonymized",100,47,1,"2022-04-20 17:12","R_1eQdTUoQxyWqsBL",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"By asking if I think a woman has a soul",0,2,3,4,NA,NA,1
+"2022-04-20 17:11","2022-04-20 17:12",0,"Anonymized",100,82,1,"2022-04-20 17:12","R_bmk4fpZp9FBV9G9",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,10,1,"Why the woman was reffered to as ""this"" I think you were looking for racial bias. ",0,2,3,4,NA,NA,1
+"2022-04-20 17:12","2022-04-20 17:13",0,"Anonymized",100,26,1,"2022-04-20 17:13","R_12qW3nzUmRxjRyd",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:13","2022-04-20 17:13",0,"Anonymized",100,25,1,"2022-04-20 17:13","R_2zTPVGSJTiP00GG",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:12","2022-04-20 17:13",0,"Anonymized",100,96,1,"2022-04-20 17:13","R_1dugRRLjCugpALs",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,7,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:13","2022-04-20 17:13",0,"Anonymized",100,30,1,"2022-04-20 17:13","R_3njb1elQTKlGMgf",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:13","2022-04-20 17:13",0,"Anonymized",100,21,1,"2022-04-20 17:13","R_2V9hwqE8abwbfWH",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:07","2022-04-20 17:14",0,"Anonymized",100,393,1,"2022-04-20 17:14","R_3PaYNruOYzwJdsE",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:13","2022-04-20 17:14",0,"Anonymized",100,29,1,"2022-04-20 17:14","R_2s58zgE1k6PFxKJ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,5,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:13","2022-04-20 17:14",0,"Anonymized",100,38,1,"2022-04-20 17:14","R_296yhcXpEFCeTlP",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:14","2022-04-20 17:15",0,"Anonymized",100,18,1,"2022-04-20 17:15","R_2qwnN6D4qdUfJ6a",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:14","2022-04-20 17:15",0,"Anonymized",100,22,1,"2022-04-20 17:15","R_3gd0jrJs0pNuoWl",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,2,2,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:14","2022-04-20 17:15",0,"Anonymized",100,21,1,"2022-04-20 17:15","R_10Nw8xbmQ94zqat",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,3,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:14","2022-04-20 17:15",0,"Anonymized",100,28,1,"2022-04-20 17:15","R_2b1Yb9C2bjlttNW",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,0,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:15","2022-04-20 17:15",0,"Anonymized",100,41,1,"2022-04-20 17:15","R_2s7okYOC0TafwRp",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,1,1,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:15","2022-04-20 17:16",0,"Anonymized",100,22,1,"2022-04-20 17:16","R_82MIphE3y582vhn",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:15","2022-04-20 17:16",0,"Anonymized",100,44,1,"2022-04-20 17:16","R_3MSDbYdWKn8BWFQ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:16","2022-04-20 17:16",0,"Anonymized",100,23,1,"2022-04-20 17:16","R_2fuO5F3rIMeuZap",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,5,3,1,"unsure",0,2,3,4,NA,1,NA
+"2022-04-20 17:15","2022-04-20 17:16",0,"Anonymized",100,63,1,"2022-04-20 17:16","R_3hzPrQ57HS6HA4H",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"Maybe the person was supposed to be a robot",0,2,3,4,NA,NA,1
+"2022-04-20 17:16","2022-04-20 17:16",0,"Anonymized",100,20,1,"2022-04-20 17:16","R_1rHBTvR5h6M5lcf",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,1,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:16","2022-04-20 17:17",0,"Anonymized",100,89,1,"2022-04-20 17:17","R_3M4ej31pNvgiDGQ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,2,NA,1,"The questions were very biased",0,2,3,4,NA,1,NA
+"2022-04-20 17:18","2022-04-20 17:18",0,"Anonymized",100,22,1,"2022-04-20 17:18","R_1DZormV9wrCEvoz",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:18","2022-04-20 17:18",0,"Anonymized",100,24,1,"2022-04-20 17:18","R_1DqDyR51KGPbcvY",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,1,1,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:16","2022-04-20 17:19",0,"Anonymized",100,191,1,"2022-04-20 17:19","R_2tKEyukwTK0cvRw",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:19","2022-04-20 17:20",0,"Anonymized",100,71,1,"2022-04-20 17:20","R_2CTab7Gjtx41Xk2",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"The last two questions.",0,2,3,4,NA,NA,1
+"2022-04-20 17:19","2022-04-20 17:20",0,"Anonymized",100,32,1,"2022-04-20 17:20","R_2Bal7d3iKB6CXB7",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,6,8,1,"The wording of the questions was suspicious. ",0,2,3,4,NA,NA,1
+"2022-04-20 17:20","2022-04-20 17:20",0,"Anonymized",100,32,1,"2022-04-20 17:20","R_21dmPjmIGI87vmz",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"this is just asking if I'm racist lol ",0,2,3,4,NA,NA,1
+"2022-04-20 17:20","2022-04-20 17:21",0,"Anonymized",100,54,1,"2022-04-20 17:21","R_qILdUTD22uC9gXv",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:20","2022-04-20 17:21",0,"Anonymized",100,35,1,"2022-04-20 17:21","R_2ScvVMdn9BpM4QG",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:20","2022-04-20 17:21",0,"Anonymized",100,24,1,"2022-04-20 17:21","R_2S0NtCJveQ2EPSB",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,4,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:21","2022-04-20 17:22",0,"Anonymized",100,68,1,"2022-04-20 17:22","R_2OUNqxI7kIaChVB",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"Question 2 and 3 made no sense.",0,2,3,4,NA,NA,1
+"2022-04-20 17:22","2022-04-20 17:22",0,"Anonymized",100,21,1,"2022-04-20 17:22","R_0evieAU5DJrvJD3",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:22","2022-04-20 17:22",0,"Anonymized",100,33,1,"2022-04-20 17:22","R_1FfXxNUxG2pK9iK",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:22","2022-04-20 17:22",0,"Anonymized",100,41,1,"2022-04-20 17:22","R_2wLA3qZiqpCDoYm",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,5,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:22","2022-04-20 17:22",0,"Anonymized",100,30,1,"2022-04-20 17:22","R_2Y9XvqD1KFYWlke",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,7,7,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:22","2022-04-20 17:23",0,"Anonymized",100,46,1,"2022-04-20 17:23","R_3nH3U0ZwDlfxcsP",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,10,10,1,"The verbiage of the last two questions was phrased wrong",0,2,3,4,NA,NA,1
+"2022-04-20 17:22","2022-04-20 17:23",0,"Anonymized",100,41,1,"2022-04-20 17:23","R_12froaWjyosP4x5",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,4,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:22","2022-04-20 17:23",0,"Anonymized",100,79,1,"2022-04-20 17:23","R_3NCZjsMY9LL9dFy",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"The questions were phrased as if they were about an object, a robot almost. But the apparent subject of the questions appeared to be a woman.",0,2,3,4,NA,NA,1
+"2022-04-20 17:23","2022-04-20 17:23",0,"Anonymized",100,33,1,"2022-04-20 17:23","R_zYdSirZP4Qv1Rw5",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,5,1,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:23","2022-04-20 17:24",0,"Anonymized",100,43,1,"2022-04-20 17:24","R_3kdr03TeRwyDbkM",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,10,1,"Asks about a woman but then in the questions she is just referred to as ""this""",0,2,3,4,NA,NA,1
+"2022-04-20 17:23","2022-04-20 17:25",0,"Anonymized",100,72,1,"2022-04-20 17:25","R_2cvd4aMLjzbi2AN",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,1,"The questions asked about what appeared to be an actual person but may have been A.I. or computer generated.",0,2,3,4,NA,NA,1
+"2022-04-20 17:23","2022-04-20 17:26",0,"Anonymized",100,194,1,"2022-04-20 17:26","R_3Iag1iZzXKd16Wq",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,5,6,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:25","2022-04-20 17:26",0,"Anonymized",100,49,1,"2022-04-20 17:26","R_1dLYbTLvAEKRf71",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:26","2022-04-20 17:26",0,"Anonymized",100,19,1,"2022-04-20 17:26","R_3KI3mPgd2mMfnna",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,4,NA,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:27","2022-04-20 17:28",0,"Anonymized",100,27,1,"2022-04-20 17:28","R_2wH65UufDoyxDcS",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:28","2022-04-20 17:29",0,"Anonymized",100,24,1,"2022-04-20 17:29","R_ex0bz0akQIh0l2x",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,6,2,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:28","2022-04-20 17:29",0,"Anonymized",100,27,1,"2022-04-20 17:29","R_2SBOoNKucZdf4Yl",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:26","2022-04-20 17:29",0,"Anonymized",100,188,1,"2022-04-20 17:29","R_25F2k4DGMynvtrm",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,8,9,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:29","2022-04-20 17:30",0,"Anonymized",100,49,1,"2022-04-20 17:30","R_1rxgTuhxEzUdURA",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",0,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:30","2022-04-20 17:30",0,"Anonymized",100,18,1,"2022-04-20 17:30","R_1ovUQzqp3QPHDCl",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:30","2022-04-20 17:31",0,"Anonymized",100,35,1,"2022-04-20 17:31","R_3NxEEbP0BhosGSa",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:31","2022-04-20 17:31",0,"Anonymized",100,20,1,"2022-04-20 17:31","R_6WGXG2C8HXchov7",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:29","2022-04-20 17:31",0,"Anonymized",100,149,1,"2022-04-20 17:31","R_31v1O7GdDYHVzVV",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,6,2,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:32","2022-04-20 17:32",0,"Anonymized",100,24,1,"2022-04-20 17:32","R_1gH0wT8PF5nrxtP",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,2,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:32","2022-04-20 17:32",0,"Anonymized",100,25,1,"2022-04-20 17:32","R_3O1X1jMR8XIlnSE",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,10,2,"",0,2,3,4,NA,NA,1
+"2022-04-20 17:32","2022-04-20 17:33",0,"Anonymized",100,53,1,"2022-04-20 17:33","R_2vf4PCXFnfJmS4B",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",6,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:32","2022-04-20 17:33",0,"Anonymized",100,47,1,"2022-04-20 17:33","R_1dbkYTTaxx5XYLV",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:33","2022-04-20 17:33",0,"Anonymized",100,30,1,"2022-04-20 17:33","R_RLxpJOWBJhumoyl",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:33","2022-04-20 17:34",0,"Anonymized",100,32,1,"2022-04-20 17:34","R_1dcw84cwaEL2Tsm",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",3,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:33","2022-04-20 17:35",0,"Anonymized",100,92,1,"2022-04-20 17:35","R_1i5nHnfWJBR50F1",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,5,5,1,"We are supposed to imagine her as real? Or just a picture on a screen?",0,2,3,4,NA,NA,1
+"2022-04-20 17:34","2022-04-20 17:35",0,"Anonymized",100,52,1,"2022-04-20 17:35","R_YSyDZjKYm5Jy3jX",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:35","2022-04-20 17:36",0,"Anonymized",100,39,1,"2022-04-20 17:36","R_296OzSU2x8eG2Vq",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,10,7,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:36","2022-04-20 17:36",0,"Anonymized",100,37,1,"2022-04-20 17:36","R_2ElXmBSM8ugEn8x",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:36","2022-04-20 17:37",0,"Anonymized",100,56,1,"2022-04-20 17:37","R_T1pBrsuuaIWgfh7",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,3,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:36","2022-04-20 17:37",0,"Anonymized",100,30,1,"2022-04-20 17:37","R_b8vLdUj4JyqGTOV",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:36","2022-04-20 17:37",0,"Anonymized",100,23,1,"2022-04-20 17:37","R_3iQNbiC2dkNqCWj",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",10,5,1,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:37","2022-04-20 17:37",0,"Anonymized",100,14,1,"2022-04-20 17:37","R_1H6RBFlAe6yz6vY",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",4,1,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:37","2022-04-20 17:37",0,"Anonymized",100,30,1,"2022-04-20 17:37","R_2uQYiUCwD0dor7b",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",2,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:37","2022-04-20 17:37",0,"Anonymized",100,46,1,"2022-04-20 17:37","R_22tDeuQhC9R3H8c",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",8,1,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:37","2022-04-20 17:38",0,"Anonymized",100,67,1,"2022-04-20 17:38","R_ptpoXMBl1ngEF57",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,10,10,1,"Referring to the woman as this",0,2,3,4,NA,NA,1
+"2022-04-20 17:37","2022-04-20 17:38",0,"Anonymized",100,37,1,"2022-04-20 17:38","R_2ZTGIFVFqK5nbQQ",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",5,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:38","2022-04-20 17:39",0,"Anonymized",100,30,1,"2022-04-20 17:39","R_1MSPOchhcN6rafL",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",9,0,0,2,"",0,2,3,4,NA,1,NA
+"2022-04-20 17:38","2022-04-20 17:39",0,"Anonymized",100,37,1,"2022-04-20 17:39","R_20UTRRt2tndGbYI",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",1,0,0,2,"",0,2,3,4,1,NA,NA
+"2022-04-20 17:38","2022-04-20 17:39",0,"Anonymized",100,71,1,"2022-04-20 17:39","R_1ITohmlTPesvB2t",NA,NA,NA,NA,"Anonymized","Anonymized","anonymous","EN",7,8,8,1,"You wouldn't normally ask if a person has consciousness or a soul.",0,2,3,4,NA,NA,1
