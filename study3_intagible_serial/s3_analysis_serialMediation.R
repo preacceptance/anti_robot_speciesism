@@ -14,10 +14,10 @@ table(p$condition)
 ## Cronbach Alphas for the measures
 cronbach.alpha(p[,c("comfort_1", "likely_1", "service_1")])
 cronbach.alpha(p[,c("organism_1", "bio_1")])
-cronbach.alpha(p[,c("soul_1", "conscious_1", "empathy_1", "grow_1", "meaning_1")], na.rm = T)
+cronbach.alpha(p[,c("soul_1", "conscious_1", "empathy_1", "meaning_1")], na.rm = T)
 
 ## Average the measures
-p$int <- (p$soul_1+p$conscious_1+p$empathy_1+p$grow_1+p$meaning_1)/5
+p$int <- (p$soul_1+p$conscious_1+p$empathy_1+p$meaning_1)/4
 p$dv <- (p$comfort_1 + p$likely_1 + p$service_1)/3
 p$bio <- (p$organism_1+p$bio_1)/2
 

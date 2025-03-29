@@ -24,4 +24,3 @@ cohen.d(n$perfect, n$imperfect, na.rm = T)
 
 t.test(n$perfect, n$human)
 cohen.d(n$perfect, n$human, na.rm = T)
-

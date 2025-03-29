@@ -19,7 +19,19 @@ x
 x$w
 
 ## Study 1
-## n is obtained from 204 participants / 2 conditions ~= 100 participants per condition
+## n is obtained from 204 participants / 3 conditions ~= 70 participants per condition
+x <- pwr.t.test( n = 70, sig.level = .05, power = .8, type = c("two.sample"))
+x
+x$d
+
+
+## Study 2-4
 x <- pwr.t.test( n = 100, sig.level = .05, power = .8, type = c("two.sample"))
+x
+x$d
+
+## Study 5-6
+## n is 200
+x <- pwr.t.test( n = 200, sig.level = .05, power = .8, type = c("two.sample"))
 x
 x$d

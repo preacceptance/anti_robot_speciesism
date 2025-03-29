@@ -5,6 +5,10 @@ library(psych)
 library(effsize)
 library(boot)
 
+run_process <- T
+
+if (run_process) source("../process.R")
+
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #set working directory to current directory
 p <- read.csv ("s2_data_mediation.csv", header=T, sep=",")
 
@@ -42,13 +46,16 @@ cor.test(p$cashier_1, p$int)
 ### Exclude "Human" condition
 cor.test(p[p$cond != "H",]$cashier_1, p[p$cond != "H",]$int)
 
-## Simple Mediation Analysis
-model.name <- function(d, i){q <- d[i,]
-return((lm(q$int ~ q$cond)$coef[2])*
-         (lm(q$cashier_1 ~ q$int + q$cond)$coef[2]))}
+## Process Multicategorical Mediation
+d <- p
+d$cond <- as.numeric(relevel(as.factor(d$cond), ref = "H"))
 
-ind <- boot(p, model.name, R=1000); ind
-boot.ci(ind, type = "bca", conf = 0.95)
+if(run_process) {
+  process(data = d, y = "cashier_1", x = "cond", 
+          m = c("int"), model = 4, effsize = 1, total = 1, mcx = 1, stand = 1, 
+          contrast = 1 , boot = 10000 , modelbt = 1, seed = 654321)
+  
+}
 
 ## Exclude participants that noticed it was a robot
 p <- subset(p, exclude==0)
