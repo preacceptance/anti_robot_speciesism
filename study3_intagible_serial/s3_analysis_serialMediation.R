@@ -7,14 +7,20 @@ library(ltm)
 library(boot)
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #set working directory to current directory
-p <- read.csv ("s3_data_serialMediation.csv", header=T, sep=",")
+p <- read.csv("replication.csv", header=T, sep=",")
 
 table(p$condition)
 
+prop.table(table(p$gender))
+mean(p$age, na.rm = T )
+
 ## Cronbach Alphas for the measures
-cronbach.alpha(p[,c("comfort_1", "likely_1", "service_1")])
-cronbach.alpha(p[,c("organism_1", "bio_1")])
+cronbach.alpha(p[,c("comfort_1", "likely_1", "service_1")], na.rm = T)
+cronbach.alpha(p[,c("organism_1", "bio_1")], na.rm = T)
 cronbach.alpha(p[,c("soul_1", "conscious_1", "empathy_1", "meaning_1")], na.rm = T)
+
+p[, c("comfort_1", "likely_1", "service_1", "organism_1", "bio_1", "soul_1", "conscious_1", "empathy_1", "meaning_1")] |>
+  drop_na() |> cor()
 
 ## Average the measures
 p$int <- (p$soul_1+p$conscious_1+p$empathy_1+p$meaning_1)/4
@@ -28,11 +34,21 @@ cohen.d(p[p$condition == "robot",]$dv, p[p$condition == "person",]$dv)
 
 ### Intuitions in Biology
 t.test(p[p$condition == "robot",]$bio, p[p$condition == "person",]$bio)
-cohen.d(p[p$condition == "robot",]$bio, p[p$condition == "person",]$bio)
+cohen.d(p[p$condition == "robot",]$bio, p[p$condition == "person",]$bio, na.rm = T)
 
 ### Intangible Qualities
 t.test(p[p$condition == "robot",]$int, p[p$condition == "person",]$int)
 cohen.d(p[p$condition == "robot",]$int, p[p$condition == "person",]$int, na.rm = T)
+
+sd(p[p$condition == "robot",]$dv)
+sd(p[p$condition == "person",]$dv)
+
+sd(p[p$condition == "robot",]$bio, na.rm = T)
+sd(p[p$condition == "person",]$bio, na.rm = T)
+
+sd(p[p$condition == "robot",]$int, na.rm = T)
+sd(p[p$condition == "person",]$int, na.rm = T)
+
 
 ## Regression Analysis
 ### Intangible Qualities predicted by Intuitions in Biology

@@ -31,7 +31,7 @@ pacman::p_load('tidyverse',
 )
 
 # PROCESS Analysis (Set TRUE if you wish to run PROCESS code)
-mediation <- T
+mediation <- F
 if(mediation) {
   source("../process.R")
 }
@@ -86,6 +86,8 @@ cronbach.alpha(d[,c("deteriorate_1", "being_harmed_1", "well_being_1")])
 
 d$moral_concern <- rowMeans(d[,c("autonomy_1", "harm_1", "die_1", "exploit_1")])
 d$awareness <- rowMeans(d[,c("deteriorate_1", "being_harmed_1", "well_being_1")])
+
+d[, c("autonomy_1", "harm_1", "die_1", "exploit_1", "deteriorate_1", "being_harmed_1", "well_being_1")] |> cor()
 
 # ANOVA
 ## Moral Concern
@@ -180,7 +182,12 @@ if(mediation) {
 d |>
   select(Condition, moral_concern, awareness) |>
   gather(key = "DV", value = "Value", 2:3) |>
-  mutate( DV = ifelse( DV == "moral_concern", "Moral Concern", "Comprehension of Harm"))-> d_plot
+  mutate( DV = ifelse( DV == "moral_concern", "Moral Concern", "Comprehension of Harm"), 
+          Condition = case_when(
+            Condition == "Treatment" ~ "Hazardous-Work",
+            Condition == "Control-Death" ~ "Death-Control",
+            Condition == "Control" ~ "Control"
+          )) -> d_plot
 
 # Obtain mean and standard errors for condition and measure
 d_plot |>
@@ -199,7 +206,7 @@ ggplot(data = d_plot, aes(fill=`Condition`, y=avg_value, x = DV)) +
   geom_errorbar(aes(ymin=avg_value-(se_value*se_width), ymax=avg_value+(se_value*se_width)), position = position_dodge(width=.6), 
                 size=.25, color="black", width=.25) +
   geom_signif(
-    y_position = c(72, 72, 61, 72, 72, 61), xmin = c(0.8, 1.05, .85, 1.8, 2.05, 1.85), 
+    y_position = c(70, 70, 80, 70, 70, 80), xmin = c(0.8, 1.05, .85, 1.8, 2.05, 1.85), 
     xmax = c(.95, 1.2, 1.15, 1.95, 2.2, 2.15),
     annotation = c("ns", "**", "*", "ns","***", "***"), tip_length = 0.1, color='black', size = .25, textsize = 3.5 
   ) + 

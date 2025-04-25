@@ -58,6 +58,10 @@ s$ease <- (s$easy_1 + s$confident_1)/2
 t.test(s[s$cond == "P",]$ease, s[s$cond == "H",]$ease) 
 cohen.d(s[s$cond == "P",]$ease, s[s$cond == "H",]$ease)
 
+sd(s[s$cond == "P",]$ease)
+sd(s[s$cond == "H",]$ease)
+sd(s[s$cond == "surprise",]$ease, na.rm = T)
+
 t.test(s[s$cond == "H",]$ease, s[s$cond == "surprise",]$ease)
 cohen.d(s[s$cond == "H",]$ease, s[s$cond == "surprise",]$ease, na.rm=TRUE)
 
@@ -72,6 +76,10 @@ cohen.d(s[s$cond == "H",]$dv, s[s$cond == "surprise",]$dv)
 
 t.test(s[s$cond == "surprise",]$dv, s[s$cond == "P",]$dv)
 cohen.d(s[s$cond == "surprise",]$dv, s[s$cond == "P",]$dv)
+
+sd(s[s$cond == "P",]$dv)
+sd(s[s$cond == "H",]$dv)
+sd(s[s$cond == "surprise",]$dv, na.rm = T)
 
 ## Interaction Regression
 s$cond <- relevel(as.factor(s$cond), ref = "H")
@@ -96,3 +104,5 @@ summary(lm(dv ~ cond2, lo))
 hi <- subset(s2, mod > 4.38)
 summary(lm(dv ~ cond2, hi)) # Beta = 1.27 here
 
+
+s[, c("comfort_1", "likely_1", "recommend_1", "s1", "s2", "s3", "s4r")] |> drop_na() |> cor()

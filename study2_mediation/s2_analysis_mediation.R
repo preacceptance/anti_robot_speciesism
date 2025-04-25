@@ -5,7 +5,7 @@ library(psych)
 library(effsize)
 library(boot)
 
-run_process <- T
+run_process <- F
 
 if (run_process) source("../process.R")
 
@@ -33,12 +33,21 @@ cohen.d(p[p$cond == "I",]$cashier_1 ,p[p$cond == "P",]$cashier_1)
 t.test(p[p$cond == "P",]$cashier_1 ,p[p$cond == "H",]$cashier_1)
 cohen.d(p[p$cond == "P",]$cashier_1 ,p[p$cond == "H",]$cashier_1)
 
+sd(p[p$cond == "P",]$cashier_1)
+sd(p[p$cond == "H",]$cashier_1)
+sd(p[p$cond == "I",]$cashier_1)
+
 ## Compare intangible qualities between the three conditions
 t.test(p[p$cond == "I",]$int ,p[p$cond == "P",]$int)
 cohen.d(p[p$cond == "I",]$int ,p[p$cond == "P",]$int, na.rm=T)
 
 t.test(p[p$cond == "P",]$int ,p[p$cond == "H",]$int)
 cohen.d(p[p$cond == "P",]$int ,p[p$cond == "H",]$int, na.rm=T)
+
+sd(p[p$cond == "P",]$int, na.rm = T)
+sd(p[p$cond == "H",]$int, na.rm = T)
+sd(p[p$cond == "I",]$int, na.rm = T)
+
 
 ## Correlation test between comfort and intangible qualities
 ### All condition
@@ -66,3 +75,5 @@ cohen.d(p[p$cond == "P",]$cashier_1 ,p[p$cond == "H",]$cashier_1, na.rm=T)
 
 t.test(p[p$cond == "P",]$cashier_1 ,p[p$cond == "I",]$cashier_1)
 cohen.d(p[p$cond == "P",]$cashier_1 ,p[p$cond == "I",]$cashier_1, na.rm=T)
+
+p |> select(cashier_1, soul_1, conscious_1) |> drop_na() |> cor()
